@@ -69,7 +69,7 @@ class _HomePageState extends State<HomePage> {
                           ListTile(
                             title: Text("ISO Code:  ${_items[index]["ISO"]}"),
                             subtitle: Text(
-                                'Region: ${_items[index]["Region1"]} \n Locations:  ${_items[index]["Region2"]}'),
+                                'Region: ${_items[index]["Region1"]} \nLocations:  ${_items[index]["Region2"]}'),
                           )
                         ],
                       );
