@@ -40,47 +40,50 @@ class _HomePageState extends State<HomePage> {
     final data = await json.decode(response);
     setState(() {
       _items = data["items"];
-      print("..number of items ${_items.length}");
     });
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        centerTitle: true,
-        title: const Text(
-          'App Comity',
+        appBar: AppBar(
+          centerTitle: true,
+          title: const Text(
+            'App Comity',
+          ),
         ),
-      ),
-      body: Column(
-        children: <Widget>[
-          if (_items.isNotEmpty)
-            Expanded(
-              child: ListView.builder(
-                itemCount: _items.length,
-                itemBuilder: (BuildContext context, int index) {
-                  return ExpansionTile(
-                    title: Text('Country Code: '+_items[index]["Code"]),
-                    subtitle: Text('Area Code: '+_items[index]["Area"]),
-                    children: <Widget>[
-                      ListTile(
-                        title: Text('ISO Code: '+_items[index]["ISO"]),
-                        subtitle: Text('Region: '+_items[index]["Region1"]+" Locations: "+_items[index]["Region2"]),
-                      )
-                    ],
-                  );
-                },
-              ),
-            )
-          else
-            ElevatedButton(
-                onPressed: () {
-                  readJson();
-                },
-                child: const Center(child: Text("Load Json"))),
-        ],
-      ),
-    );
+        body: Center(
+            child: SizedBox(
+          width: 400,
+          child: Column(
+            children: <Widget>[
+              if (_items.isNotEmpty)
+                Expanded(
+                  child: ListView.builder(
+                    itemCount: _items.length,
+                    itemBuilder: (BuildContext context, int index) {
+                      return ExpansionTile(
+                        title: Text('Country Code: ${_items[index]["Code"]}'),
+                        subtitle: Text('Area Code: ${_items[index]["Area"]}'),
+                        children: <Widget>[
+                          ListTile(
+                            title: Text("ISO Code:  ${_items[index]["ISO"]}"),
+                            subtitle: Text(
+                                'Region: ${_items[index]["Region1"]} \n Locations:  ${_items[index]["Region2"]}'),
+                          )
+                        ],
+                      );
+                    },
+                  ),
+                )
+              else
+                ElevatedButton(
+                    onPressed: () {
+                      readJson();
+                    },
+                    child: const Center(child: Text("Load Json"))),
+            ],
+          ),
+        )));
   }
 }

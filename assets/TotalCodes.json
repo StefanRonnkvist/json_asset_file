@@ -12,7 +12,7 @@
       "Area": "202",
       "ISO": "US",
       "Region1": "District of Columbia",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -26,7 +26,7 @@
       "Area": "204",
       "ISO": "CA",
       "Region1": "Manitoba",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -47,14 +47,14 @@
       "Area": "207",
       "ISO": "US",
       "Region1": "Maine",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
       "Area": "208",
       "ISO": "US",
       "Region1": "Idaho",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -215,14 +215,14 @@
       "Area": "242",
       "ISO": "BS",
       "Region1": "Bahamas",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
       "Area": "246",
       "ISO": "BB",
       "Region1": "Barbados",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -299,7 +299,7 @@
       "Area": "264",
       "ISO": "AI",
       "Region1": "Anguilla",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -313,7 +313,7 @@
       "Area": "268",
       "ISO": "AG",
       "Region1": "Antigua and Barbuda",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -362,7 +362,7 @@
       "Area": "284",
       "ISO": "VG",
       "Region1": "British Virgin Islands",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -383,7 +383,7 @@
       "Area": "302",
       "ISO": "US",
       "Region1": "Delaware",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -397,7 +397,7 @@
       "Area": "304",
       "ISO": "US",
       "Region1": "West Virginia",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -411,14 +411,14 @@
       "Area": "306",
       "ISO": "CA",
       "Region1": "Saskatchewan",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
       "Area": "307",
       "ISO": "US",
       "Region1": "Wyoming",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -579,7 +579,7 @@
       "Area": "340",
       "ISO": "VI",
       "Region1": "U.S. Virgin Islands",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -593,7 +593,7 @@
       "Area": "345",
       "ISO": "KY",
       "Region1": "Cayman Islands",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -684,7 +684,7 @@
       "Area": "401",
       "ISO": "US",
       "Region1": "Rhode Island",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -719,7 +719,7 @@
       "Area": "406",
       "ISO": "US",
       "Region1": "Montana",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -838,7 +838,7 @@
       "Area": "431",
       "ISO": "CA",
       "Region1": "Manitoba",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -887,7 +887,7 @@
       "Area": "441",
       "ISO": "BM",
       "Region1": "Bermuda",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -957,7 +957,7 @@
       "Area": "473",
       "ISO": "GD",
       "Region1": "Grenada",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1041,7 +1041,7 @@
       "Area": "506",
       "ISO": "CA",
       "Region1": "New Brunswick",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1384,7 +1384,7 @@
       "Area": "603",
       "ISO": "US",
       "Region1": "New Hampshire",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1398,7 +1398,7 @@
       "Area": "605",
       "ISO": "US",
       "Region1": "South Dakota",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1559,7 +1559,7 @@
       "Area": "639",
       "ISO": "CA",
       "Region1": "Saskatchewan",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1594,7 +1594,7 @@
       "Area": "649",
       "ISO": "TC",
       "Region1": "Turks and Caicos Islands",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1643,14 +1643,14 @@
       "Area": "664",
       "ISO": "MS",
       "Region1": "Montserrat",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
       "Area": "667",
       "ISO": "US",
       "Region1": "Maryland",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1664,14 +1664,14 @@
       "Area": "670",
       "ISO": "MP",
       "Region1": "Northern Mariana Islands",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
       "Area": "671",
       "ISO": "GU",
       "Region1": "Guam",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1692,7 +1692,7 @@
       "Area": "681",
       "ISO": "US",
       "Region1": "West Virginia",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1706,7 +1706,7 @@
       "Area": "684",
       "ISO": "AS",
       "Region1": "American Samoa",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1720,7 +1720,7 @@
       "Area": "701",
       "ISO": "US",
       "Region1": "North Dakota",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1776,7 +1776,7 @@
       "Area": "709",
       "ISO": "CA",
       "Region1": "Newfoundland and Labrador",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1852,8 +1852,8 @@
       "Code": "1",
       "Area": "721",
       "ISO": "SX",
-      "Region1": "Sint Maarten",
-      "Region2": "All areas"
+      "Region1": "Saint Maarten",
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1951,7 +1951,7 @@
       "Area": "758",
       "ISO": "LC",
       "Region1": "Saint Lucia",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -1986,7 +1986,7 @@
       "Area": "767",
       "ISO": "DM",
       "Region1": "Dominica",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2063,14 +2063,14 @@
       "Area": "782",
       "ISO": "CA",
       "Region1": "Nova Scotia, Prince Edward Island",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
       "Area": "784",
       "ISO": "VC",
       "Region1": "Saint Vincent and the Grenadines",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2091,7 +2091,7 @@
       "Area": "787",
       "ISO": "PR",
       "Region1": "Puerto Rico",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2112,7 +2112,7 @@
       "Area": "802",
       "ISO": "US",
       "Region1": "Vermont",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2154,14 +2154,14 @@
       "Area": "808",
       "ISO": "US",
       "Region1": "Hawaii",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
       "Area": "809",
       "ISO": "DO",
       "Region1": "Dominican Republic",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2252,7 +2252,7 @@
       "Area": "829",
       "ISO": "DO",
       "Region1": "Dominican Republic",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2300,8 +2300,8 @@
       "Code": "1",
       "Area": "844",
       "ISO": "XX",
-      "Region1": "XX",
-      "Region2": "Toll-Free"
+      "Region1": "Toll-Free",
+      "Region2": "XX"
     },
     {
       "Code": "1",
@@ -2329,7 +2329,7 @@
       "Area": "849",
       "ISO": "DO",
       "Region1": "Dominican Republic",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2419,8 +2419,8 @@
       "Code": "1",
       "Area": "866",
       "ISO": "XX",
-      "Region1": "XX",
-      "Region2": "Toll-Free"
+      "Region1": "Toll-Free",
+      "Region2": "XX"
     },
     {
       "Code": "1",
@@ -2434,14 +2434,14 @@
       "Area": "868",
       "ISO": "TT",
       "Region1": "Trinidad and Tobago",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
       "Area": "869",
       "ISO": "KN",
       "Region1": "Saint Kitts and Nevis",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2462,21 +2462,21 @@
       "Area": "873",
       "ISO": "CA",
       "Region1": "Quebec",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
       "Area": "876",
       "ISO": "JM",
       "Region1": "Jamaica",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
       "Area": "877",
       "ISO": "XX",
-      "Region1": "XX",
-      "Region2": "Toll-Free"
+      "Region1": "Toll-Free",
+      "Region2": "XX"
     },
     {
       "Code": "1",
@@ -2489,8 +2489,8 @@
       "Code": "1",
       "Area": "888",
       "ISO": "XX",
-      "Region1": "XX",
-      "Region2": "Toll-Free"
+      "Region1": "Toll-Free",
+      "Region2": "XX"
     },
     {
       "Code": "1",
@@ -2511,7 +2511,7 @@
       "Area": "902",
       "ISO": "CA",
       "Region1": "Nova Scotia, Prince Edward Island",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2546,7 +2546,7 @@
       "Area": "907",
       "ISO": "US",
       "Region1": "Alaska",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2651,7 +2651,7 @@
       "Area": "929",
       "ISO": "US",
       "Region1": "New York",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2700,7 +2700,7 @@
       "Area": "939",
       "ISO": "PR",
       "Region1": "Puerto Rico",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2833,7 +2833,7 @@
       "Area": "986",
       "ISO": "US",
       "Region1": "Idaho",
-      "Region2": "All areas"
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
@@ -2847,1519 +2847,1519 @@
       "Area": "",
       "ISO": "CA",
       "Region1": "Canada",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "1",
       "Area": "",
       "ISO": "US",
       "Region1": "United States",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "7",
       "Area": "",
       "ISO": "KZ",
       "Region1": "Kazakhstan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "7",
       "Area": "",
       "ISO": "RU",
       "Region1": "Russia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "20",
       "Area": "",
       "ISO": "EG",
       "Region1": "Egypt",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "27",
       "Area": "",
       "ISO": "ZA",
       "Region1": "South Africa",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "30",
       "Area": "",
       "ISO": "GR",
       "Region1": "Greece",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "31",
       "Area": "",
       "ISO": "NL",
       "Region1": "Netherlands",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "32",
       "Area": "",
       "ISO": "BE",
       "Region1": "Belgium",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "33",
       "Area": "",
       "ISO": "FR",
       "Region1": "France",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "34",
       "Area": "",
       "ISO": "ES",
       "Region1": "Spain",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "36",
       "Area": "",
       "ISO": "HU",
       "Region1": "Hungary",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "39",
       "Area": "",
       "ISO": "IT",
       "Region1": "Italy",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "40",
       "Area": "",
       "ISO": "RO",
       "Region1": "Romania",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "41",
       "Area": "",
       "ISO": "CH",
       "Region1": "Switzerland",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "43",
       "Area": "",
       "ISO": "AT",
       "Region1": "Austria",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "44",
       "Area": "1481",
       "ISO": "GG",
       "Region1": "Guernsey",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "44",
       "Area": "1534",
       "ISO": "JE",
       "Region1": "Jersey",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "44",
       "Area": "1624",
       "ISO": "IM",
       "Region1": "Isle of Man",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "44",
       "Area": "",
       "ISO": "GB",
       "Region1": "United Kingdom",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "45",
       "Area": "",
       "ISO": "DK",
       "Region1": "Denmark",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "46",
       "Area": "",
       "ISO": "SE",
       "Region1": "Sweden",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "47",
       "Area": "",
       "ISO": "NO",
       "Region1": "Norway",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "47",
       "Area": "",
       "ISO": "SJ",
       "Region1": "Svalbard and Jan Mayen",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "48",
       "Area": "",
       "ISO": "PL",
       "Region1": "Poland",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "49",
       "Area": "",
       "ISO": "DE",
       "Region1": "Germany",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "51",
       "Area": "",
       "ISO": "PE",
       "Region1": "Peru",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "52",
       "Area": "",
       "ISO": "MX",
       "Region1": "Mexico",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "53",
       "Area": "",
       "ISO": "CU",
       "Region1": "Cuba",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "54",
       "Area": "",
       "ISO": "AR",
       "Region1": "Argentina",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "55",
       "Area": "",
       "ISO": "BR",
       "Region1": "Brazil",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "56",
       "Area": "",
       "ISO": "CL",
       "Region1": "Chile",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "57",
       "Area": "",
       "ISO": "CO",
       "Region1": "Colombia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "58",
       "Area": "",
       "ISO": "VE",
       "Region1": "Venezuela",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "60",
       "Area": "",
       "ISO": "MY",
       "Region1": "Malaysia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "61",
       "Area": "",
       "ISO": "AU",
       "Region1": "Australia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "61",
       "Area": "",
       "ISO": "CC",
       "Region1": "Cocos Islands",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "61",
       "Area": "",
       "ISO": "CX",
       "Region1": "Christmas Island",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "62",
       "Area": "",
       "ISO": "ID",
       "Region1": "Indonesia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "63",
       "Area": "",
       "ISO": "PH",
       "Region1": "Philippines",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "64",
       "Area": "",
       "ISO": "NZ",
       "Region1": "New Zealand",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "64",
       "Area": "",
       "ISO": "PN",
       "Region1": "Pitcairn",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "65",
       "Area": "",
       "ISO": "SG",
       "Region1": "Singapore",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "66",
       "Area": "",
       "ISO": "TH",
       "Region1": "Thailand",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "81",
       "Area": "",
       "ISO": "JP",
       "Region1": "Japan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "82",
       "Area": "",
       "ISO": "KR",
       "Region1": "South Korea",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "84",
       "Area": "",
       "ISO": "VN",
       "Region1": "Vietnam",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "86",
       "Area": "",
       "ISO": "CN",
       "Region1": "China",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "90",
       "Area": "",
       "ISO": "TR",
       "Region1": "Turkey",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "91",
       "Area": "",
       "ISO": "IN",
       "Region1": "India",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "92",
       "Area": "",
       "ISO": "PK",
       "Region1": "Pakistan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "93",
       "Area": "",
       "ISO": "AF",
       "Region1": "Afghanistan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "94",
       "Area": "",
       "ISO": "LK",
       "Region1": "Sri Lanka",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "95",
       "Area": "",
       "ISO": "MM",
       "Region1": "Myanmar",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "98",
       "Area": "",
       "ISO": "IR",
       "Region1": "Iran",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "211",
       "Area": "",
       "ISO": "SS",
       "Region1": "South Sudan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "212",
       "Area": "",
       "ISO": "EH",
       "Region1": "Western Sahara",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "212",
       "Area": "",
       "ISO": "MA",
       "Region1": "Morocco",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "213",
       "Area": "",
       "ISO": "DZ",
       "Region1": "Algeria",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "216",
       "Area": "",
       "ISO": "TN",
       "Region1": "Tunisia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "218",
       "Area": "",
       "ISO": "LY",
       "Region1": "Libya",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "220",
       "Area": "",
       "ISO": "GM",
       "Region1": "Gambia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "221",
       "Area": "",
       "ISO": "SN",
       "Region1": "Senegal",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "222",
       "Area": "",
       "ISO": "MR",
       "Region1": "Mauritania",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "223",
       "Area": "",
       "ISO": "ML",
       "Region1": "Mali",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "224",
       "Area": "",
       "ISO": "GN",
       "Region1": "Guinea",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "225",
       "Area": "",
       "ISO": "CI",
       "Region1": "Ivory Coast",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "226",
       "Area": "",
       "ISO": "BF",
       "Region1": "Burkina Faso",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "227",
       "Area": "",
       "ISO": "NE",
       "Region1": "Niger",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "228",
       "Area": "",
       "ISO": "TG",
       "Region1": "Togo",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "229",
       "Area": "",
       "ISO": "BJ",
       "Region1": "Benin",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "230",
       "Area": "",
       "ISO": "MU",
       "Region1": "Mauritius",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "231",
       "Area": "",
       "ISO": "LR",
       "Region1": "Liberia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "232",
       "Area": "",
       "ISO": "SL",
       "Region1": "Sierra Leone",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "233",
       "Area": "",
       "ISO": "GH",
       "Region1": "Ghana",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "234",
       "Area": "",
       "ISO": "NG",
       "Region1": "Nigeria",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "235",
       "Area": "",
       "ISO": "TD",
       "Region1": "Chad",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "236",
       "Area": "",
       "ISO": "CF",
       "Region1": "Central African Republic",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "237",
       "Area": "",
       "ISO": "CM",
       "Region1": "Cameroon",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "238",
       "Area": "",
       "ISO": "CV",
       "Region1": "Cape Verde",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "239",
       "Area": "",
       "ISO": "ST",
       "Region1": "Sao Tome and Principe",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "240",
       "Area": "",
       "ISO": "GQ",
       "Region1": "Equatorial Guinea",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "241",
       "Area": "",
       "ISO": "GA",
       "Region1": "Gabon",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "242",
       "Area": "",
       "ISO": "CG",
       "Region1": "Republic of the Congo",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "243",
       "Area": "",
       "ISO": "CD",
       "Region1": "Democratic Republic of the Congo",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "244",
       "Area": "",
       "ISO": "AO",
       "Region1": "Angola",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "245",
       "Area": "",
       "ISO": "GW",
       "Region1": "Guinea-Bissau",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "246",
       "Area": "",
       "ISO": "IO",
       "Region1": "British Indian Ocean Territory",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "248",
       "Area": "",
       "ISO": "SC",
       "Region1": "Seychelles",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "249",
       "Area": "",
       "ISO": "SD",
       "Region1": "Sudan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "250",
       "Area": "",
       "ISO": "RW",
       "Region1": "Rwanda",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "251",
       "Area": "",
       "ISO": "ET",
       "Region1": "Ethiopia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "252",
       "Area": "",
       "ISO": "SO",
       "Region1": "Somalia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "253",
       "Area": "",
       "ISO": "DJ",
       "Region1": "Djibouti",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "254",
       "Area": "",
       "ISO": "KE",
       "Region1": "Kenya",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "255",
       "Area": "",
       "ISO": "TZ",
       "Region1": "Tanzania",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "256",
       "Area": "",
       "ISO": "UG",
       "Region1": "Uganda",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "257",
       "Area": "",
       "ISO": "BI",
       "Region1": "Burundi",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "258",
       "Area": "",
       "ISO": "MZ",
       "Region1": "Mozambique",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "260",
       "Area": "",
       "ISO": "ZM",
       "Region1": "Zambia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "261",
       "Area": "",
       "ISO": "MG",
       "Region1": "Madagascar",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "262",
       "Area": "",
       "ISO": "RE",
       "Region1": "Reunion",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "262",
       "Area": "",
       "ISO": "YT",
       "Region1": "Mayotte",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "263",
       "Area": "",
       "ISO": "ZW",
       "Region1": "Zimbabwe",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "264",
       "Area": "",
       "ISO": "NA",
       "Region1": "Namibia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "265",
       "Area": "",
       "ISO": "MW",
       "Region1": "Malawi",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "266",
       "Area": "",
       "ISO": "LS",
       "Region1": "Lesotho",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "267",
       "Area": "",
       "ISO": "BW",
       "Region1": "Botswana",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "268",
       "Area": "",
       "ISO": "SZ",
       "Region1": "Swaziland",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "269",
       "Area": "",
       "ISO": "KM",
       "Region1": "Comoros",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "290",
       "Area": "",
       "ISO": "SH",
       "Region1": "Saint Helena",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "291",
       "Area": "",
       "ISO": "ER",
       "Region1": "Eritrea",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "297",
       "Area": "",
       "ISO": "AW",
       "Region1": "Aruba",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "298",
       "Area": "",
       "ISO": "FO",
       "Region1": "Faroe Islands",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "299",
       "Area": "",
       "ISO": "GL",
       "Region1": "Greenland",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "350",
       "Area": "",
       "ISO": "GI",
       "Region1": "Gibraltar",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "351",
       "Area": "",
       "ISO": "PT",
       "Region1": "Portugal",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "352",
       "Area": "",
       "ISO": "LU",
       "Region1": "Luxembourg",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "353",
       "Area": "",
       "ISO": "IE",
       "Region1": "Ireland",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "354",
       "Area": "",
       "ISO": "IS",
       "Region1": "Iceland",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "355",
       "Area": "",
       "ISO": "AL",
       "Region1": "Albania",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "356",
       "Area": "",
       "ISO": "MT",
       "Region1": "Malta",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "357",
       "Area": "",
       "ISO": "CY",
       "Region1": "Cyprus",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "358",
       "Area": "",
       "ISO": "FI",
       "Region1": "Finland",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "359",
       "Area": "",
       "ISO": "BG",
       "Region1": "Bulgaria",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "370",
       "Area": "",
       "ISO": "LT",
       "Region1": "Lithuania",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "371",
       "Area": "",
       "ISO": "LV",
       "Region1": "Latvia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "372",
       "Area": "",
       "ISO": "EE",
       "Region1": "Estonia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "373",
       "Area": "",
       "ISO": "MD",
       "Region1": "Moldova",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "374",
       "Area": "",
       "ISO": "AM",
       "Region1": "Armenia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "375",
       "Area": "",
       "ISO": "BY",
       "Region1": "Belarus",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "376",
       "Area": "",
       "ISO": "AD",
       "Region1": "Andorra",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "377",
       "Area": "",
       "ISO": "MC",
       "Region1": "Monaco",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "378",
       "Area": "",
       "ISO": "SM",
       "Region1": "San Marino",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "379",
       "Area": "",
       "ISO": "VA",
       "Region1": "Vatican",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "380",
       "Area": "",
       "ISO": "UA",
       "Region1": "Ukraine",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "381",
       "Area": "",
       "ISO": "RS",
       "Region1": "Serbia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "382",
       "Area": "",
       "ISO": "ME",
       "Region1": "Montenegro",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "383",
       "Area": "",
       "ISO": "XK",
       "Region1": "Kosovo",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "385",
       "Area": "",
       "ISO": "HR",
       "Region1": "Croatia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "386",
       "Area": "",
       "ISO": "SI",
       "Region1": "Slovenia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "387",
       "Area": "",
       "ISO": "BA",
       "Region1": "Bosnia and Herzegovina",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "389",
       "Area": "",
       "ISO": "MK",
       "Region1": "Macedonia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "420",
       "Area": "",
       "ISO": "CZ",
       "Region1": "Czech Republic",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "421",
       "Area": "",
       "ISO": "SK",
       "Region1": "Slovakia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "423",
       "Area": "",
       "ISO": "LI",
       "Region1": "Liechtenstein",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "500",
       "Area": "",
       "ISO": "FK",
       "Region1": "Falkland Islands",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "501",
       "Area": "",
       "ISO": "BZ",
       "Region1": "Belize",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "502",
       "Area": "",
       "ISO": "GT",
       "Region1": "Guatemala",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "503",
       "Area": "",
       "ISO": "SV",
       "Region1": "El Salvador",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "504",
       "Area": "",
       "ISO": "HN",
       "Region1": "Honduras",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "505",
       "Area": "",
       "ISO": "NI",
       "Region1": "Nicaragua",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "506",
       "Area": "",
       "ISO": "CR",
       "Region1": "Costa Rica",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "507",
       "Area": "",
       "ISO": "PA",
       "Region1": "Panama",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "508",
       "Area": "",
       "ISO": "PM",
       "Region1": "Saint Pierre and Miquelon",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "509",
       "Area": "",
       "ISO": "HT",
       "Region1": "Haiti",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "590",
       "Area": "",
       "ISO": "BL",
       "Region1": "Saint Barthelemy",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "590",
       "Area": "",
       "ISO": "MF",
       "Region1": "Saint Martin",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "591",
       "Area": "",
       "ISO": "BO",
       "Region1": "Bolivia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "592",
       "Area": "",
       "ISO": "GY",
       "Region1": "Guyana",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "593",
       "Area": "",
       "ISO": "EC",
       "Region1": "Ecuador",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "595",
       "Area": "",
       "ISO": "PY",
       "Region1": "Paraguay",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "597",
       "Area": "",
       "ISO": "SR",
       "Region1": "Suriname",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "598",
       "Area": "",
       "ISO": "UY",
       "Region1": "Uruguay",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "599",
       "Area": "",
       "ISO": "AN",
       "Region1": "Netherlands Antilles",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "599",
       "Area": "",
       "ISO": "CW",
       "Region1": "Curacao",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "670",
       "Area": "",
       "ISO": "TL",
       "Region1": "East Timor",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "672",
       "Area": "",
       "ISO": "AQ",
       "Region1": "Antarctica",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "673",
       "Area": "",
       "ISO": "BN",
       "Region1": "Brunei",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "674",
       "Area": "",
       "ISO": "NR",
       "Region1": "Nauru",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "675",
       "Area": "",
       "ISO": "PG",
       "Region1": "Papua New Guinea",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "676",
       "Area": "",
       "ISO": "TO",
       "Region1": "Tonga",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "677",
       "Area": "",
       "ISO": "SB",
       "Region1": "Solomon Islands",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "678",
       "Area": "",
       "ISO": "VU",
       "Region1": "Vanuatu",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "679",
       "Area": "",
       "ISO": "FJ",
       "Region1": "Fiji",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "680",
       "Area": "",
       "ISO": "PW",
       "Region1": "Palau",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "681",
       "Area": "",
       "ISO": "WF",
       "Region1": "Wallis and Futuna",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "682",
       "Area": "",
       "ISO": "CK",
       "Region1": "Cook Islands",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "683",
       "Area": "",
       "ISO": "NU",
       "Region1": "Niue",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "685",
       "Area": "",
       "ISO": "WS",
       "Region1": "Samoa",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "686",
       "Area": "",
       "ISO": "KI",
       "Region1": "Kiribati",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "687",
       "Area": "",
       "ISO": "NC",
       "Region1": "New Caledonia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "688",
       "Area": "",
       "ISO": "TV",
       "Region1": "Tuvalu",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "689",
       "Area": "",
       "ISO": "PF",
       "Region1": "French Polynesia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "690",
       "Area": "",
       "ISO": "TK",
       "Region1": "Tokelau",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "691",
       "Area": "",
       "ISO": "FM",
       "Region1": "Micronesia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "692",
       "Area": "",
       "ISO": "MH",
       "Region1": "Marshall Islands",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "850",
       "Area": "",
       "ISO": "KP",
       "Region1": "North Korea",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "852",
       "Area": "",
       "ISO": "HK",
       "Region1": "Hong Kong",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "853",
       "Area": "",
       "ISO": "MO",
       "Region1": "Macau",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "855",
       "Area": "",
       "ISO": "KH",
       "Region1": "Cambodia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "856",
       "Area": "",
       "ISO": "LA",
       "Region1": "Laos",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "880",
       "Area": "",
       "ISO": "BD",
       "Region1": "Bangladesh",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "886",
       "Area": "",
       "ISO": "TW",
       "Region1": "Taiwan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "960",
       "Area": "",
       "ISO": "MV",
       "Region1": "Maldives",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "961",
       "Area": "",
       "ISO": "LB",
       "Region1": "Lebanon",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "962",
       "Area": "",
       "ISO": "JO",
       "Region1": "Jordan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "963",
       "Area": "",
       "ISO": "SY",
       "Region1": "Syria",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "964",
       "Area": "",
       "ISO": "IQ",
       "Region1": "Iraq",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "965",
       "Area": "",
       "ISO": "KW",
       "Region1": "Kuwait",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "966",
       "Area": "",
       "ISO": "SA",
       "Region1": "Saudi Arabia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "967",
       "Area": "",
       "ISO": "YE",
       "Region1": "Yemen",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "968",
       "Area": "",
       "ISO": "OM",
       "Region1": "Oman",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "970",
       "Area": "",
       "ISO": "PS",
       "Region1": "Palestine",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "971",
       "Area": "",
       "ISO": "AE",
       "Region1": "United Arab Emirates",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "972",
       "Area": "",
       "ISO": "IL",
       "Region1": "Israel",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "973",
       "Area": "",
       "ISO": "BH",
       "Region1": "Bahrain",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "974",
       "Area": "",
       "ISO": "QA",
       "Region1": "Qatar",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "975",
       "Area": "",
       "ISO": "BT",
       "Region1": "Bhutan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "976",
       "Area": "",
       "ISO": "MN",
       "Region1": "Mongolia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "977",
       "Area": "",
       "ISO": "NP",
       "Region1": "Nepal",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "992",
       "Area": "",
       "ISO": "TJ",
       "Region1": "Tajikistan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "993",
       "Area": "",
       "ISO": "TM",
       "Region1": "Turkmenistan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "994",
       "Area": "",
       "ISO": "AZ",
       "Region1": "Azerbaijan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "995",
       "Area": "",
       "ISO": "GE",
       "Region1": "Georgia",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "996",
       "Area": "",
       "ISO": "KG",
       "Region1": "Kyrgyzstan",
-      "Region2": ""
+      "Region2": "All Areas"
     },
     {
       "Code": "998",
       "Area": "",
       "ISO": "UZ",
       "Region1": "Uzbekistan",
-      "Region2": ""
+      "Region2": "All Areas"
     }
   ]
 }
