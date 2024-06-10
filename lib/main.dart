@@ -2,6 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'createReturnWidget.dart';
 
 void main() {
   runApp(const Main());
@@ -33,10 +34,10 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   List _items = [];
+  String fileName = 'assets/TotalCodes.json';
 
   Future<void> readJson() async {
-    final String response =
-        await rootBundle.loadString('assets/TotalCodes.json');
+    final String response = await rootBundle.loadString(fileName);
     final data = await json.decode(response);
     setState(() {
       _items = data["items"];
@@ -58,24 +59,7 @@ class _HomePageState extends State<HomePage> {
           child: Column(
             children: <Widget>[
               if (_items.isNotEmpty)
-                Expanded(
-                  child: ListView.builder(
-                    itemCount: _items.length,
-                    itemBuilder: (BuildContext context, int index) {
-                      return ExpansionTile(
-                        title: Text('Country Code: ${_items[index]["Code"]}'),
-                        subtitle: Text('Area Code: ${_items[index]["Area"]}'),
-                        children: <Widget>[
-                          ListTile(
-                            title: Text("ISO Code:  ${_items[index]["ISO"]}"),
-                            subtitle: Text(
-                                'Region: ${_items[index]["Region1"]} \nLocations:  ${_items[index]["Region2"]}'),
-                          )
-                        ],
-                      );
-                    },
-                  ),
-                )
+                createReturnWidget(_items)
               else
                 ElevatedButton(
                     onPressed: () {
