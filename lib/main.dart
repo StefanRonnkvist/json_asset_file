@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:json_asset_file/readJasonAssetFile.dart';
+import 'readJasonAssetFile.dart';
 import 'createReturnWidget.dart';
 
 void main() {
