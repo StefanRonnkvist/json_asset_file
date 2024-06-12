@@ -1,7 +1,5 @@
 import 'dart:async';
-import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'readJasonAssetFile.dart';
 import 'createReturnWidget.dart';
 
@@ -34,12 +32,11 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-
   List _items = [];
   String fileName = 'assets/TotalCodes.json';
 
   Future<void> readJson() async {
-    final data = await readJsonAssetFile(_items,fileName);
+    final data = await readJsonAssetFile(_items, fileName);
     setState(() {
       _items = data["items"];
     });
