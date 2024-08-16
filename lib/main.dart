@@ -14,7 +14,7 @@ class Main extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'App Comity',
+      title: 'App Comity Asset Json',
       theme: ThemeData(
         useMaterial3: true,
         primarySwatch: Colors.blue,
@@ -48,7 +48,7 @@ class _HomePageState extends State<HomePage> {
         appBar: AppBar(
           centerTitle: true,
           title: const Text(
-            'App Comity',
+            'App Comity Json',
           ),
         ),
         body: Center(
@@ -63,7 +63,7 @@ class _HomePageState extends State<HomePage> {
                     onPressed: () {
                       readJson();
                     },
-                    child: const Center(child: Text("Load Json"))),
+                    child: const Center(child: Text("Load Json Asset File"))),
             ],
           ),
         )));
