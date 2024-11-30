@@ -1,0 +1,4365 @@
+{
+  "items": [
+    {
+      "Code": "1",
+      "Area": "201",
+      "ISO": "US",
+      "Region1": "New Jersey",
+      "Region2": "Hackensack, Jersey City, Union City, Rutherford, Leonia"
+    },
+    {
+      "Code": "1",
+      "Area": "202",
+      "ISO": "US",
+      "Region1": "District of Columbia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "203",
+      "ISO": "US",
+      "Region1": "Connecticut",
+      "Region2": "Bridgeport, New Haven, Stamford, Waterbury, Norwalk, Danbury, Greenwich"
+    },
+    {
+      "Code": "1",
+      "Area": "204",
+      "ISO": "CA",
+      "Region1": "Manitoba",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "205",
+      "ISO": "US",
+      "Region1": "Alabama",
+      "Region2": "Birmingham, Huntsville, Tuscaloosa, Anniston"
+    },
+    {
+      "Code": "1",
+      "Area": "206",
+      "ISO": "US",
+      "Region1": "Washington",
+      "Region2": "Seattle, Everett"
+    },
+    {
+      "Code": "1",
+      "Area": "207",
+      "ISO": "US",
+      "Region1": "Maine",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "208",
+      "ISO": "US",
+      "Region1": "Idaho",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "209",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Stockton, Modesto, Merced, Oakdale"
+    },
+    {
+      "Code": "1",
+      "Area": "210",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "San Antonio"
+    },
+    {
+      "Code": "1",
+      "Area": "212",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "New York City - Manhattan"
+    },
+    {
+      "Code": "1",
+      "Area": "213",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Los Angeles, Compton"
+    },
+    {
+      "Code": "1",
+      "Area": "214",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Dallas"
+    },
+    {
+      "Code": "1",
+      "Area": "215",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Philadelphia, Lansdale, Doylestown, Newtown, Quakertown"
+    },
+    {
+      "Code": "1",
+      "Area": "216",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Cleveland, Terrace, Independence, Montrose"
+    },
+    {
+      "Code": "1",
+      "Area": "217",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "Springfield, Champaign Urbana, Decatur, Central Illinois"
+    },
+    {
+      "Code": "1",
+      "Area": "218",
+      "ISO": "US",
+      "Region1": "Minnesota",
+      "Region2": "Duluth, Virginia, Moorhead, Brainerd, Wadena"
+    },
+    {
+      "Code": "1",
+      "Area": "219",
+      "ISO": "US",
+      "Region1": "Indiana",
+      "Region2": "Gary, Hammond, Merrillville, Portage, Michigan City, Valparaiso"
+    },
+    {
+      "Code": "1",
+      "Area": "220",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Portsmouth, Newark, Zanesville, Wheeling, Steubenville"
+    },
+    {
+      "Code": "1",
+      "Area": "223",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Harrisburg, York, Lancaster"
+    },
+    {
+      "Code": "1",
+      "Area": "224",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "Northbrook, Skokie, Evanston, Glenview, Waukegan, Desplaines, Elk Grove"
+    },
+    {
+      "Code": "1",
+      "Area": "225",
+      "ISO": "US",
+      "Region1": "Louisiana",
+      "Region2": "Baton Rouge and Surrounding Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "226",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Ontario: London Area, Kitchener, Cambridge, Windsor"
+    },
+    {
+      "Code": "1",
+      "Area": "228",
+      "ISO": "US",
+      "Region1": "Mississippi",
+      "Region2": "Gulfport, Biloxi, Pascagoula, Bay St. Louis"
+    },
+    {
+      "Code": "1",
+      "Area": "229",
+      "ISO": "US",
+      "Region1": "Georgia",
+      "Region2": "Albany, Valdosta, Thomasville, Bainbridge, Tifton, Americus, Moultrie, Cordele"
+    },
+    {
+      "Code": "1",
+      "Area": "231",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Muskegon, Traverse City, Big Rapids, Cadillac, Cheboygan"
+    },
+    {
+      "Code": "1",
+      "Area": "234",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Akron, Youngstown, Canton, Warren, Kent, Alliance, Medina, New Philadelphia"
+    },
+    {
+      "Code": "1",
+      "Area": "236",
+      "ISO": "CA",
+      "Region1": "British Columbia",
+      "Region2": "Vancouver, Fraser Valley"
+    },
+    {
+      "Code": "1",
+      "Area": "239",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Ft. Myers, Naples, Cape Coral, Bonita Springs, Immokalee, Lehigh Acres, Sanibel, Captiva, Pine Island"
+    },
+    {
+      "Code": "1",
+      "Area": "240",
+      "ISO": "US",
+      "Region1": "Maryland",
+      "Region2": "Rockville, Silver Spring, Bethesda, Gaithersburg, Frederick, Laurel, Hagerstown"
+    },
+    {
+      "Code": "1",
+      "Area": "242",
+      "ISO": "BS",
+      "Region1": "Bahamas",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "246",
+      "ISO": "BB",
+      "Region1": "Barbados",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "248",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Troy, Pontiac, Royal Oak, Birmingham, Rochester, Farmington Hills"
+    },
+    {
+      "Code": "1",
+      "Area": "249",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Greater Sudbury, Sault Ste. Marie, North Bay"
+    },
+    {
+      "Code": "1",
+      "Area": "250",
+      "ISO": "CA",
+      "Region1": "British Columbia",
+      "Region2": "British Columbia: Victoria, Kamloops, Kelowna, Prince George, Nanaimo"
+    },
+    {
+      "Code": "1",
+      "Area": "251",
+      "ISO": "US",
+      "Region1": "Alabama",
+      "Region2": "Mobile, Prichard, Tillmans Corner, Fairhope, Jackson, Gulfshores"
+    },
+    {
+      "Code": "1",
+      "Area": "252",
+      "ISO": "US",
+      "Region1": "North Carolina",
+      "Region2": "Greenville, Rocky Mount, Wilson, New Bern"
+    },
+    {
+      "Code": "1",
+      "Area": "253",
+      "ISO": "US",
+      "Region1": "Washington",
+      "Region2": "Tacoma, Kent, Auburn"
+    },
+    {
+      "Code": "1",
+      "Area": "254",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Waco, Killeen, Temple"
+    },
+    {
+      "Code": "1",
+      "Area": "256",
+      "ISO": "US",
+      "Region1": "Alabama",
+      "Region2": "Huntsville, Anniston, Decatur, Gadsden, Florence"
+    },
+    {
+      "Code": "1",
+      "Area": "260",
+      "ISO": "US",
+      "Region1": "Indiana",
+      "Region2": "Fort Wayne, Huntington, Wabash, Lagrange"
+    },
+    {
+      "Code": "1",
+      "Area": "262",
+      "ISO": "US",
+      "Region1": "Wisconsin",
+      "Region2": "Green Bay, Appleton, Racine, Kenosha, Oshkosh, Waukesha, Menomonee Falls, West Bend, Sheboygan"
+    },
+    {
+      "Code": "1",
+      "Area": "264",
+      "ISO": "AI",
+      "Region1": "Anguilla",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "267",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Philadelphia, Lansdale, Doylestown, Newtown, Quakertown"
+    },
+    {
+      "Code": "1",
+      "Area": "268",
+      "ISO": "AG",
+      "Region1": "Antigua and Barbuda",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "269",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Kalamazoo, Battle Creek, St. Joseph, Three Rivers, South Haven, Benton Harbor, Sturgis, Hastings"
+    },
+    {
+      "Code": "1",
+      "Area": "270",
+      "ISO": "US",
+      "Region1": "Kentucky",
+      "Region2": "Bowling Green, Paducah, Owensboro, Hopkinsville"
+    },
+    {
+      "Code": "1",
+      "Area": "272",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Williamsport , Scranton , Wilkes-Barre and Monroe County"
+    },
+    {
+      "Code": "1",
+      "Area": "276",
+      "ISO": "US",
+      "Region1": "Virginia",
+      "Region2": "Martinsville, Abingdon, Wytheville, Bristol, Marion, Collinsville"
+    },
+    {
+      "Code": "1",
+      "Area": "279",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Sacramento, Roseville, Fair Oaks, Folsom, Elk Grove, South Placer"
+    },
+    {
+      "Code": "1",
+      "Area": "281",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Houston, Sugar Land, Buffalo, Airline, Greenspoint, Spring"
+    },
+    {
+      "Code": "1",
+      "Area": "284",
+      "ISO": "VG",
+      "Region1": "British Virgin Islands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "289",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Ontario: Hamilton, Niagara Falls, Markham, Mississauga, Brampton"
+    },
+    {
+      "Code": "1",
+      "Area": "301",
+      "ISO": "US",
+      "Region1": "Maryland",
+      "Region2": "Rockville, Silver Spring, Bethesda, Gaithersburg, Frederick, Laurel, Hagerstown"
+    },
+    {
+      "Code": "1",
+      "Area": "302",
+      "ISO": "US",
+      "Region1": "Delaware",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "303",
+      "ISO": "US",
+      "Region1": "Colorado",
+      "Region2": "Denver, Littleton, Englewood, Arvada, Boulder, Aurora"
+    },
+    {
+      "Code": "1",
+      "Area": "304",
+      "ISO": "US",
+      "Region1": "West Virginia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "305",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Miami, Perrine, Homestead, Florida Keys"
+    },
+    {
+      "Code": "1",
+      "Area": "306",
+      "ISO": "CA",
+      "Region1": "Saskatchewan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "307",
+      "ISO": "US",
+      "Region1": "Wyoming",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "308",
+      "ISO": "US",
+      "Region1": "Nebraska",
+      "Region2": "Grand Island, Kearney, North Platte, Scottsbluff"
+    },
+    {
+      "Code": "1",
+      "Area": "309",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "Peoria, Bloomington, Rock Island, Galesburg, Macomb"
+    },
+    {
+      "Code": "1",
+      "Area": "310",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Compton, Santa Monica, Beverly Hills, West LA, Inglewood, Redondo, El Segundo, Culver City, Torrance"
+    },
+    {
+      "Code": "1",
+      "Area": "312",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "Chicago, Wheeling"
+    },
+    {
+      "Code": "1",
+      "Area": "313",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Detroit, Livonia, Dearborn"
+    },
+    {
+      "Code": "1",
+      "Area": "314",
+      "ISO": "US",
+      "Region1": "Missouri",
+      "Region2": "Saint Louis, Ladue, Kirkwood, Creve Coeur, Overland, Ferguson"
+    },
+    {
+      "Code": "1",
+      "Area": "315",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Syracuse, Utica, Watertown, Rome"
+    },
+    {
+      "Code": "1",
+      "Area": "316",
+      "ISO": "US",
+      "Region1": "Kansas",
+      "Region2": "Wichita, Hutchinson"
+    },
+    {
+      "Code": "1",
+      "Area": "317",
+      "ISO": "US",
+      "Region1": "Indiana",
+      "Region2": "Indianapolis, Carmel, Fishers, Greenwood"
+    },
+    {
+      "Code": "1",
+      "Area": "318",
+      "ISO": "US",
+      "Region1": "Louisiana",
+      "Region2": "Shreveport, Monroe, Alexandria, Ruston, Natchitoches"
+    },
+    {
+      "Code": "1",
+      "Area": "319",
+      "ISO": "US",
+      "Region1": "Iowa",
+      "Region2": "Cedar Rapids, Iowa City, Waterloo, Burlington"
+    },
+    {
+      "Code": "1",
+      "Area": "320",
+      "ISO": "US",
+      "Region1": "Minnesota",
+      "Region2": "St. Cloud, Alexandria, Willmar, Little Falls"
+    },
+    {
+      "Code": "1",
+      "Area": "321",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Cocoa, Melbourne, Eau Gallie, Titusville"
+    },
+    {
+      "Code": "1",
+      "Area": "323",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Los Angeles, Montebello"
+    },
+    {
+      "Code": "1",
+      "Area": "325",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Albilene, San Angelo, Brownwood, Synder, Sweetwater"
+    },
+    {
+      "Code": "1",
+      "Area": "330",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Akron, Youngstown, Canton, Warren, Kent, Alliance, Medina, New Philadelphia"
+    },
+    {
+      "Code": "1",
+      "Area": "331",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "La Grange, Roselle, Hinsdale, Downers Grove, Naperville, Lombard, Elmhurst, Aurora, Wheaton"
+    },
+    {
+      "Code": "1",
+      "Area": "332",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "New York City - Manhattan"
+    },
+    {
+      "Code": "1",
+      "Area": "334",
+      "ISO": "US",
+      "Region1": "Alabama",
+      "Region2": "Montgomery, Dothan, Auburn, Selma, Opelika, Phenix City, Tuskegee"
+    },
+    {
+      "Code": "1",
+      "Area": "336",
+      "ISO": "US",
+      "Region1": "North Carolina",
+      "Region2": "Greensboro, Winston Salem, Highpoint, Burlington, Lexington, Asheboro, Reidsville"
+    },
+    {
+      "Code": "1",
+      "Area": "337",
+      "ISO": "US",
+      "Region1": "Louisiana",
+      "Region2": "Lake Charles, Lafayette, New Iberia, Leesville, Opelousas, Crowley"
+    },
+    {
+      "Code": "1",
+      "Area": "339",
+      "ISO": "US",
+      "Region1": "Massachusetts",
+      "Region2": "Waltham, Lexington, Burlinton, Dedham, Woburn, Lynn, Malden, Saugus, Reading, Braintree, Wellesley"
+    },
+    {
+      "Code": "1",
+      "Area": "340",
+      "ISO": "VI",
+      "Region1": "U.S. Virgin Islands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "343",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Ottawa metropolitan area and southeastern Ontario"
+    },
+    {
+      "Code": "1",
+      "Area": "345",
+      "ISO": "KY",
+      "Region1": "Cayman Islands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "346",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Harris, Fort Bend, Waller, Austin, Montgomery, San Jacinto, Liberty, Chambers, Galveston and Brazoria counties"
+    },
+    {
+      "Code": "1",
+      "Area": "347",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Bronx, Brooklyn, Queens, Staten Island"
+    },
+    {
+      "Code": "1",
+      "Area": "351",
+      "ISO": "US",
+      "Region1": "Massachusetts",
+      "Region2": "Lowell, Lawrence, Billerica, Concord, Wilmington, Sudbury, Fitchburg, Peabody, Andover, Beverly, Danvers"
+    },
+    {
+      "Code": "1",
+      "Area": "352",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Gainesville, Ocala, Leesburg, Brookville"
+    },
+    {
+      "Code": "1",
+      "Area": "360",
+      "ISO": "US",
+      "Region1": "Washington",
+      "Region2": "Vancouver, Olympia, Bellingham, Silverdale"
+    },
+    {
+      "Code": "1",
+      "Area": "361",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Corpus Christi, Victoria"
+    },
+    {
+      "Code": "1",
+      "Area": "364",
+      "ISO": "US",
+      "Region1": "Kentucky",
+      "Region2": "Owensboro, Paducah, Bowling Green, Hopkinsville, Henderson, Elizabethtown, and most of western Kentucky"
+    },
+    {
+      "Code": "1",
+      "Area": "365",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Niagara Falls Region, Hamilton, St. Catharines, suburbs of the Greater Toronto Area, and southeastern Ontario"
+    },
+    {
+      "Code": "1",
+      "Area": "367",
+      "ISO": "CA",
+      "Region1": "Quebec",
+      "Region2": "Levis, Quebec City"
+    },
+    {
+      "Code": "1",
+      "Area": "380",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Columbus, Worthington, Dublin, Reynoldsburg, Westerville, Gahanna, Hilliard"
+    },
+    {
+      "Code": "1",
+      "Area": "385",
+      "ISO": "US",
+      "Region1": "Utah",
+      "Region2": "Salt Lake City, Provo, Ogden, Orem, American Fork, Spanish Fork, Bountiful, Kaysville, Morgan"
+    },
+    {
+      "Code": "1",
+      "Area": "386",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Daytona, Deland, Lake City, DeBary, Orange City, New Smyrna Beach, Palatka, Palm Coast"
+    },
+    {
+      "Code": "1",
+      "Area": "401",
+      "ISO": "US",
+      "Region1": "Rhode Island",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "402",
+      "ISO": "US",
+      "Region1": "Nebraska",
+      "Region2": "Lincoln, Omaha, Norfolk, Columbus"
+    },
+    {
+      "Code": "1",
+      "Area": "403",
+      "ISO": "CA",
+      "Region1": "Alberta",
+      "Region2": "Calgary, Lethbridge, Banff, Medicine Hat, Red Deer"
+    },
+    {
+      "Code": "1",
+      "Area": "404",
+      "ISO": "US",
+      "Region1": "Georgia",
+      "Region2": "Atlanta"
+    },
+    {
+      "Code": "1",
+      "Area": "405",
+      "ISO": "US",
+      "Region1": "Oklahoma",
+      "Region2": "Oklahoma City, Norman, Stillwater, Britton, Bethany, Moore"
+    },
+    {
+      "Code": "1",
+      "Area": "406",
+      "ISO": "US",
+      "Region1": "Montana",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "407",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Orlando, Winter Park, Kissimmee, Cocoa, Lake Buena Vista, Melbourne"
+    },
+    {
+      "Code": "1",
+      "Area": "408",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "San Jose, Sunnyvale, Campbell Los Gatos, Salinas, San Martin, Saratoga, Morgan Hill, Gilroy"
+    },
+    {
+      "Code": "1",
+      "Area": "409",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Galveston, Beaumont, Port Arthur, Texas City, Nederland"
+    },
+    {
+      "Code": "1",
+      "Area": "410",
+      "ISO": "US",
+      "Region1": "Maryland",
+      "Region2": "Baltimore, Annapolis, Towson, Catonsville, Glen Burnie"
+    },
+    {
+      "Code": "1",
+      "Area": "412",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Pittsburgh"
+    },
+    {
+      "Code": "1",
+      "Area": "413",
+      "ISO": "US",
+      "Region1": "Massachusetts",
+      "Region2": "Springfield, Pittsfield, Holyoke, Amherst"
+    },
+    {
+      "Code": "1",
+      "Area": "414",
+      "ISO": "US",
+      "Region1": "Wisconsin",
+      "Region2": "Milwaukee, Greendale, Franklin, Cudahy, St. Francis, Brown Deer, Whitefish Bay"
+    },
+    {
+      "Code": "1",
+      "Area": "415",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "San Francisco"
+    },
+    {
+      "Code": "1",
+      "Area": "416",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Toronto"
+    },
+    {
+      "Code": "1",
+      "Area": "417",
+      "ISO": "US",
+      "Region1": "Missouri",
+      "Region2": "Joplin, Springfield, Branson, Lebanon"
+    },
+    {
+      "Code": "1",
+      "Area": "418",
+      "ISO": "CA",
+      "Region1": "Quebec",
+      "Region2": "Quebec"
+    },
+    {
+      "Code": "1",
+      "Area": "419",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Toledo, Lima, Mansfield, Sandusky, Findlay"
+    },
+    {
+      "Code": "1",
+      "Area": "423",
+      "ISO": "US",
+      "Region1": "Tennessee",
+      "Region2": "Chattanooga, Cleveland, Johnson City, Bristol, Kingsport, Athens, Morristown, Greeneville"
+    },
+    {
+      "Code": "1",
+      "Area": "424",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Compton, Santa Monica, Beverly Hills, West LA, Inglewood, Redondo, El Segundo, Culver City, Torrance"
+    },
+    {
+      "Code": "1",
+      "Area": "425",
+      "ISO": "US",
+      "Region1": "Washington",
+      "Region2": "Bothell, Everett, Bellevue, Kirkland, Renton"
+    },
+    {
+      "Code": "1",
+      "Area": "430",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Longview, Tyler, Texarkana, Paris, Kilgore, Sherman, Denison"
+    },
+    {
+      "Code": "1",
+      "Area": "431",
+      "ISO": "CA",
+      "Region1": "Manitoba",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "432",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Midland, Terminal, Odessa, Big Spring, Alpine, Pecos, Fort Stockton"
+    },
+    {
+      "Code": "1",
+      "Area": "434",
+      "ISO": "US",
+      "Region1": "Virginia",
+      "Region2": "Lynchburg, Danville, Charlottesville, Madison Heights, South Boston"
+    },
+    {
+      "Code": "1",
+      "Area": "435",
+      "ISO": "US",
+      "Region1": "Utah",
+      "Region2": "Logan, St. George, Park City, Tooele, Brigham City, Richfield, Moab, Blanding"
+    },
+    {
+      "Code": "1",
+      "Area": "437",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Toronto metropolitan area"
+    },
+    {
+      "Code": "1",
+      "Area": "438",
+      "ISO": "CA",
+      "Region1": "Quebec",
+      "Region2": "Montreal Area"
+    },
+    {
+      "Code": "1",
+      "Area": "440",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Willoughby, Hillcrest, Trinity, Lorain, Elyria"
+    },
+    {
+      "Code": "1",
+      "Area": "441",
+      "ISO": "BM",
+      "Region1": "Bermuda",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "442",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Oceanside, Palm Springs, Victorville, Escondido, Vista, Palm Desert"
+    },
+    {
+      "Code": "1",
+      "Area": "443",
+      "ISO": "US",
+      "Region1": "Maryland",
+      "Region2": "Baltimore, Annapolis, Towson, Catonsville, Glen Burnie"
+    },
+    {
+      "Code": "1",
+      "Area": "445",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Philadelphia, Lansdale, Doylestown, Newtown, Quakertown"
+    },
+    {
+      "Code": "1",
+      "Area": "450",
+      "ISO": "CA",
+      "Region1": "Quebec",
+      "Region2": "Quebec: Laval, Saint Lambert, Longueuil, Sainte Therese"
+    },
+    {
+      "Code": "1",
+      "Area": "456",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Inbound International Call Routing"
+    },
+    {
+      "Code": "1",
+      "Area": "458",
+      "ISO": "US",
+      "Region1": "Oregon",
+      "Region2": "Eugene, Medford, Bend, Pendleton, Corvallis, Ontario, Burns; excludes the Portland metropolitan area"
+    },
+    {
+      "Code": "1",
+      "Area": "463",
+      "ISO": "US",
+      "Region1": "Indiana",
+      "Region2": "Indianapolis, Carmel, Fishers, Greenwood"
+    },
+    {
+      "Code": "1",
+      "Area": "469",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Dallas, Grand Prairie, Addison, Irving, Richardson, Plano, Carrollton"
+    },
+    {
+      "Code": "1",
+      "Area": "470",
+      "ISO": "US",
+      "Region1": "Georgia",
+      "Region2": "Atlanta, Norcross, Chamblee, Smyrna, Tucker, Marietta, Alpharetta, Gainesville"
+    },
+    {
+      "Code": "1",
+      "Area": "473",
+      "ISO": "GD",
+      "Region1": "Grenada",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "475",
+      "ISO": "US",
+      "Region1": "Connecticut",
+      "Region2": "Bridgeport, New Haven, Stamford, Waterbury, Norwalk, Danbury, Greenwich"
+    },
+    {
+      "Code": "1",
+      "Area": "478",
+      "ISO": "US",
+      "Region1": "Georgia",
+      "Region2": "Macon, Warner Robbins, Dublin, Milledgeville, Forsyth"
+    },
+    {
+      "Code": "1",
+      "Area": "479",
+      "ISO": "US",
+      "Region1": "Arkansas",
+      "Region2": "Fort Smith, Fayetteville, Rogers, Bentonville, Russellville"
+    },
+    {
+      "Code": "1",
+      "Area": "480",
+      "ISO": "US",
+      "Region1": "Arizona",
+      "Region2": "Mesa, Scottsdale, Tempe, Chandler, Gilbert"
+    },
+    {
+      "Code": "1",
+      "Area": "484",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Allentown, Reading, Bethlehem, West Chester, Pottstown"
+    },
+    {
+      "Code": "1",
+      "Area": "500",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Personal Communications Services"
+    },
+    {
+      "Code": "1",
+      "Area": "501",
+      "ISO": "US",
+      "Region1": "Arkansas",
+      "Region2": "Little Rock, Hot Springs"
+    },
+    {
+      "Code": "1",
+      "Area": "502",
+      "ISO": "US",
+      "Region1": "Kentucky",
+      "Region2": "Louisville, Frankfort, Fort Knox, Pleasure Ridge Park"
+    },
+    {
+      "Code": "1",
+      "Area": "503",
+      "ISO": "US",
+      "Region1": "Oregon",
+      "Region2": "Portland, Salem, Beaverton, Gresham, Hillsboro"
+    },
+    {
+      "Code": "1",
+      "Area": "504",
+      "ISO": "US",
+      "Region1": "Louisiana",
+      "Region2": "New Orleans, Metairie, Kenner, Chalmette"
+    },
+    {
+      "Code": "1",
+      "Area": "505",
+      "ISO": "US",
+      "Region1": "New Mexico",
+      "Region2": "Albuquerque, Bernalillo, Farmington, Gallup, Grants, Las Vegas, Los Alamos, Rio Rancho, Santa Fe"
+    },
+    {
+      "Code": "1",
+      "Area": "506",
+      "ISO": "CA",
+      "Region1": "New Brunswick",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "507",
+      "ISO": "US",
+      "Region1": "Minnesota",
+      "Region2": "Rochester, Mankato, Winona, Faribault, Luverne"
+    },
+    {
+      "Code": "1",
+      "Area": "508",
+      "ISO": "US",
+      "Region1": "Massachusetts",
+      "Region2": "Worcester, Framingham, Brockton, Plymouth, New Bedford, Marlboro, Natick, Taunton, Auburn, Westboro, Easton"
+    },
+    {
+      "Code": "1",
+      "Area": "509",
+      "ISO": "US",
+      "Region1": "Washington",
+      "Region2": "Spokane, Yakima, Walla Walla, Pullman, Kenwick"
+    },
+    {
+      "Code": "1",
+      "Area": "510",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Oakland, Fremont, Newark, Hayward, Richmond"
+    },
+    {
+      "Code": "1",
+      "Area": "512",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Austin, San Marcos, Round Rock, Dripping Springs"
+    },
+    {
+      "Code": "1",
+      "Area": "513",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Cincinnati, Hamilton, Clermont, Middleton, Mason"
+    },
+    {
+      "Code": "1",
+      "Area": "514",
+      "ISO": "CA",
+      "Region1": "Quebec",
+      "Region2": "Montreal Area"
+    },
+    {
+      "Code": "1",
+      "Area": "515",
+      "ISO": "US",
+      "Region1": "Iowa",
+      "Region2": "Des Moines, Ames, Jefferson"
+    },
+    {
+      "Code": "1",
+      "Area": "516",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Nassau County: Hempstead, Oceanside, Freeport, Long Beach, Garden City, Glen Cove, Mineola"
+    },
+    {
+      "Code": "1",
+      "Area": "517",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Lansing, Bay City, Jackson, Howell, Adrian"
+    },
+    {
+      "Code": "1",
+      "Area": "518",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Albany, Schenectady, Troy, Glens Falls, Saratoga Springs, Lake Placid"
+    },
+    {
+      "Code": "1",
+      "Area": "519",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "London Area, Kitchener, Cambridge, Windsor"
+    },
+    {
+      "Code": "1",
+      "Area": "520",
+      "ISO": "US",
+      "Region1": "Arizona",
+      "Region2": "Tucson, Sierra Vista, Nogales, Douglass, Bisbee"
+    },
+    {
+      "Code": "1",
+      "Area": "521",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Non-Geographic Services"
+    },
+    {
+      "Code": "1",
+      "Area": "522",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Personal Communications Services"
+    },
+    {
+      "Code": "1",
+      "Area": "530",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Chico, Redding, Marysville, Auburn, Davis, Placerville"
+    },
+    {
+      "Code": "1",
+      "Area": "531",
+      "ISO": "US",
+      "Region1": "Nebraska",
+      "Region2": "Omaha, Lincoln, Norfolk, Superior, and most of eastern Nebraska"
+    },
+    {
+      "Code": "1",
+      "Area": "533",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Personal Communications Services"
+    },
+    {
+      "Code": "1",
+      "Area": "534",
+      "ISO": "US",
+      "Region1": "Wisconsin",
+      "Region2": "Wausau, Eau Claire, Rhinelander, and most of northern Wisconsin"
+    },
+    {
+      "Code": "1",
+      "Area": "539",
+      "ISO": "US",
+      "Region1": "Oklahoma",
+      "Region2": "Tulsa, Bartlesville, McAlester, Muskogee, Henryetta and northeastern Oklahoma"
+    },
+    {
+      "Code": "1",
+      "Area": "540",
+      "ISO": "US",
+      "Region1": "Virginia",
+      "Region2": "Roanoke, Harrisonburg, Fredericksburg, Blacksburg, Winchester, Staunton, Culpeper"
+    },
+    {
+      "Code": "1",
+      "Area": "541",
+      "ISO": "US",
+      "Region1": "Oregon",
+      "Region2": "Eugene, Medford, Corvallis, Bend, Albany, Roseburg, Klamath Falls"
+    },
+    {
+      "Code": "1",
+      "Area": "544",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Non-Geographic Services"
+    },
+    {
+      "Code": "1",
+      "Area": "548",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Ontario: London Area, Kitchener, Cambridge, Windsor"
+    },
+    {
+      "Code": "1",
+      "Area": "551",
+      "ISO": "US",
+      "Region1": "New Jersey",
+      "Region2": "Hackensack, Jersey City, Union City, Rutherford, Leonia"
+    },
+    {
+      "Code": "1",
+      "Area": "559",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Fresno, Visalia, Madera, San Joaquin, Porterville, Hanford"
+    },
+    {
+      "Code": "1",
+      "Area": "561",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Palm Beaches, Boca Raton, Boynton Beach"
+    },
+    {
+      "Code": "1",
+      "Area": "562",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Long Beach, Norwalk, Alamitos, Downey, Whittier, Lakewood, La Habra"
+    },
+    {
+      "Code": "1",
+      "Area": "563",
+      "ISO": "US",
+      "Region1": "Iowa",
+      "Region2": "Davenport, Dubuque, Clinton, Muscatine, Decorah, Manchester, West Union"
+    },
+    {
+      "Code": "1",
+      "Area": "564",
+      "ISO": "US",
+      "Region1": "Washington",
+      "Region2": "Vancouver, Olympia, Bellingham, Silverdale"
+    },
+    {
+      "Code": "1",
+      "Area": "566",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Non-Geographic Services"
+    },
+    {
+      "Code": "1",
+      "Area": "567",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Toledo, Lima, Mansfield, Sandusky, Findlay"
+    },
+    {
+      "Code": "1",
+      "Area": "570",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Williamsport , Scranton , Wilkes-Barre and Monroe County"
+    },
+    {
+      "Code": "1",
+      "Area": "571",
+      "ISO": "US",
+      "Region1": "Virginia",
+      "Region2": "Arlington, Alexandria, Fairfax, Falls Church, Quantico, Herndon, Vienna"
+    },
+    {
+      "Code": "1",
+      "Area": "573",
+      "ISO": "US",
+      "Region1": "Missouri",
+      "Region2": "Columbia, Cape Girardeau, Jefferson City"
+    },
+    {
+      "Code": "1",
+      "Area": "574",
+      "ISO": "US",
+      "Region1": "Indiana",
+      "Region2": "South Bend, Elkhart, Mishawaka, Granger, La Porte"
+    },
+    {
+      "Code": "1",
+      "Area": "575",
+      "ISO": "US",
+      "Region1": "New Mexico",
+      "Region2": "Alamogordo, Carlsbad, Clovis, Deming, El Rito, Galina, Hatch, Hobbs, Las Cruces, Penasco, Raton, Taos"
+    },
+    {
+      "Code": "1",
+      "Area": "577",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Non-Geographic Services"
+    },
+    {
+      "Code": "1",
+      "Area": "579",
+      "ISO": "CA",
+      "Region1": "Quebec",
+      "Region2": "central southern Quebec including the city of Laval and other suburbs of Montreal but excluding the City of Montreal"
+    },
+    {
+      "Code": "1",
+      "Area": "580",
+      "ISO": "US",
+      "Region1": "Oklahoma",
+      "Region2": "Lawton, Enid, Ponca City, Ardmore, Duncan"
+    },
+    {
+      "Code": "1",
+      "Area": "581",
+      "ISO": "CA",
+      "Region1": "Quebec",
+      "Region2": "Levis, Quebec City"
+    },
+    {
+      "Code": "1",
+      "Area": "585",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Rochester, East Rochester, Olean, Batavia, Webster, Fairport, Henrietta"
+    },
+    {
+      "Code": "1",
+      "Area": "586",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Warren, Mount Clemens, Roseville, Center Line, Utica, Romeo, Richmond, Washington, New Baltimore"
+    },
+    {
+      "Code": "1",
+      "Area": "587",
+      "ISO": "CA",
+      "Region1": "Alberta",
+      "Region2": "Calgary, Lethbridge, Banff, Medicine Hat, Red Deer, Alberta: Edmonton, Fort McMurray, Leduc, Lloydminster, Sherwood Park"
+    },
+    {
+      "Code": "1",
+      "Area": "588",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Personal Communications Services"
+    },
+    {
+      "Code": "1",
+      "Area": "600",
+      "ISO": "CA",
+      "Region1": "CA",
+      "Region2": "Canadian Services"
+    },
+    {
+      "Code": "1",
+      "Area": "601",
+      "ISO": "US",
+      "Region1": "Mississippi",
+      "Region2": "Southern Mississippi: Jackson, Hattiesburg, Vicksburg, Meridian"
+    },
+    {
+      "Code": "1",
+      "Area": "602",
+      "ISO": "US",
+      "Region1": "Arizona",
+      "Region2": "Phoenix"
+    },
+    {
+      "Code": "1",
+      "Area": "603",
+      "ISO": "US",
+      "Region1": "New Hampshire",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "604",
+      "ISO": "CA",
+      "Region1": "British Columbia",
+      "Region2": "Vancouver, Richmond, New Westminster"
+    },
+    {
+      "Code": "1",
+      "Area": "605",
+      "ISO": "US",
+      "Region1": "South Dakota",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "606",
+      "ISO": "US",
+      "Region1": "Kentucky",
+      "Region2": "Ashland, Winchester, Pikeville, Somerset"
+    },
+    {
+      "Code": "1",
+      "Area": "607",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Elmira, Ithaca, Stamford, Binghamton, Endicott, Oneonta"
+    },
+    {
+      "Code": "1",
+      "Area": "608",
+      "ISO": "US",
+      "Region1": "Wisconsin",
+      "Region2": "Madison, La Crosse, Janesville, Middleton, Monroe, Platteville, Dodgeville"
+    },
+    {
+      "Code": "1",
+      "Area": "609",
+      "ISO": "US",
+      "Region1": "New Jersey",
+      "Region2": "Atlantic City, Trenton, Princeton, Pleasantville, Fort Dix, Lawrenceville"
+    },
+    {
+      "Code": "1",
+      "Area": "610",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Allentown, Reading, Bethlehem, West Chester, Pottstown"
+    },
+    {
+      "Code": "1",
+      "Area": "612",
+      "ISO": "US",
+      "Region1": "Minnesota",
+      "Region2": "Minneapolis, Richfield"
+    },
+    {
+      "Code": "1",
+      "Area": "613",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Ottawa, Kingston, Belleville, Cornwall, Kanata"
+    },
+    {
+      "Code": "1",
+      "Area": "614",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Columbus, Worthington, Dublin, Reynoldsburg, Westerville, Gahanna, Hilliard"
+    },
+    {
+      "Code": "1",
+      "Area": "615",
+      "ISO": "US",
+      "Region1": "Tennessee",
+      "Region2": "Nashville, Mufreesboro, Hendersonville, Frank"
+    },
+    {
+      "Code": "1",
+      "Area": "616",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Grand Rapids, Holland, Grand Haven, Greenville, Zeeland, Ionia"
+    },
+    {
+      "Code": "1",
+      "Area": "617",
+      "ISO": "US",
+      "Region1": "Massachusetts",
+      "Region2": "Boston, Cambridge, Quincy, Newton, Brookline, Brighton, Somerville, Dorchester, Hyde Park, Jamaica Plain"
+    },
+    {
+      "Code": "1",
+      "Area": "618",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "Collinsville, Alton, Carbondale, Belleville, Mount Vernon, Centralia"
+    },
+    {
+      "Code": "1",
+      "Area": "619",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "San Diego, Chula Vista, El Cajon, La Mesa, National City, Coronado"
+    },
+    {
+      "Code": "1",
+      "Area": "620",
+      "ISO": "US",
+      "Region1": "Kansas",
+      "Region2": "Hutchinson, Emporia, Liberal, Pittsburg, Dodge City, Garden City, Coffeyville"
+    },
+    {
+      "Code": "1",
+      "Area": "622",
+      "ISO": "CA",
+      "Region1": "CA",
+      "Region2": "Non-Geographic Services"
+    },
+    {
+      "Code": "1",
+      "Area": "623",
+      "ISO": "US",
+      "Region1": "Arizona",
+      "Region2": "Glendale, Sun City, Peoria"
+    },
+    {
+      "Code": "1",
+      "Area": "626",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Pasadena, Alhambra, Covina, El Monte, La Puenta"
+    },
+    {
+      "Code": "1",
+      "Area": "628",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "San Francisco"
+    },
+    {
+      "Code": "1",
+      "Area": "629",
+      "ISO": "US",
+      "Region1": "Tennessee",
+      "Region2": "Nashville, Mufreesboro, Hendersonville, Frank"
+    },
+    {
+      "Code": "1",
+      "Area": "630",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "La Grange, Roselle, Hinsdale, Downers Grove, Naperville, Lombard, Elmhurst, Aurora, Wheaton"
+    },
+    {
+      "Code": "1",
+      "Area": "631",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Suffolk County: Brentwood, Farmingdale, Central Islip, Riverhead, Huntington, Deer Park, Amityville, Lindenhurst"
+    },
+    {
+      "Code": "1",
+      "Area": "636",
+      "ISO": "US",
+      "Region1": "Missouri",
+      "Region2": "St. Charles, Fenton, Harvester, Chesterfield, Manchester"
+    },
+    {
+      "Code": "1",
+      "Area": "639",
+      "ISO": "CA",
+      "Region1": "Saskatchewan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "640",
+      "ISO": "US",
+      "Region1": "New Jersey",
+      "Region2": "Atlantic City, Trenton, Princeton, Pleasantville, Fort Dix, Lawrenceville"
+    },
+    {
+      "Code": "1",
+      "Area": "641",
+      "ISO": "US",
+      "Region1": "Iowa",
+      "Region2": "Fairfield, Mason City, Grinnell, Newton, Knoxville"
+    },
+    {
+      "Code": "1",
+      "Area": "646",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Manhattan"
+    },
+    {
+      "Code": "1",
+      "Area": "647",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Toronto"
+    },
+    {
+      "Code": "1",
+      "Area": "649",
+      "ISO": "TC",
+      "Region1": "Turks and Caicos Islands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "650",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "South San Francisco, Palo Alto, San Mateo, Mountain View, Redwood City"
+    },
+    {
+      "Code": "1",
+      "Area": "651",
+      "ISO": "US",
+      "Region1": "Minnesota",
+      "Region2": "St. Paul, Redwing, Farmington, Eagan, Lino Lakes, North Branch, Roseville Valley"
+    },
+    {
+      "Code": "1",
+      "Area": "657",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Anaheim, Santa Anna"
+    },
+    {
+      "Code": "1",
+      "Area": "660",
+      "ISO": "US",
+      "Region1": "Missouri",
+      "Region2": "Warrensburg, Kirksville, Sedalia, Chillicothe, Moberly, Marshall"
+    },
+    {
+      "Code": "1",
+      "Area": "661",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Bakersfield, Santa Clarita, Palmdale, Simi Valley"
+    },
+    {
+      "Code": "1",
+      "Area": "662",
+      "ISO": "US",
+      "Region1": "Mississippi",
+      "Region2": "Tupelo, Columbus, Greenwood, Greenville, Oxford"
+    },
+    {
+      "Code": "1",
+      "Area": "664",
+      "ISO": "MS",
+      "Region1": "Montserrat",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "667",
+      "ISO": "US",
+      "Region1": "Maryland",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "669",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "San Jose"
+    },
+    {
+      "Code": "1",
+      "Area": "670",
+      "ISO": "MP",
+      "Region1": "Northern Mariana Islands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "671",
+      "ISO": "GU",
+      "Region1": "Guam",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "678",
+      "ISO": "US",
+      "Region1": "Georgia",
+      "Region2": "Atlanta, Norcross, Chamblee, Smyrna, Tucker, Marietta, Alpharetta, Gainesville"
+    },
+    {
+      "Code": "1",
+      "Area": "680",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Syracuse, Utica, Watertown, Rome"
+    },
+    {
+      "Code": "1",
+      "Area": "681",
+      "ISO": "US",
+      "Region1": "West Virginia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "682",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Fort Worth, Arlington, Euless, Grapevine"
+    },
+    {
+      "Code": "1",
+      "Area": "684",
+      "ISO": "AS",
+      "Region1": "American Samoa",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "700",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Interexchange Carrier Services"
+    },
+    {
+      "Code": "1",
+      "Area": "701",
+      "ISO": "US",
+      "Region1": "North Dakota",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "702",
+      "ISO": "US",
+      "Region1": "Nevada",
+      "Region2": "Las Vegas and surrounding areas"
+    },
+    {
+      "Code": "1",
+      "Area": "703",
+      "ISO": "US",
+      "Region1": "Virginia",
+      "Region2": "Arlington, Alexandria, Fairfax, Falls Church, Quantico, Herndon, Vienna"
+    },
+    {
+      "Code": "1",
+      "Area": "704",
+      "ISO": "US",
+      "Region1": "North Carolina",
+      "Region2": "Charlotte, Asheville, Gastonia, Concord, Statesville, Salisbury, Shelby, Monroe"
+    },
+    {
+      "Code": "1",
+      "Area": "705",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "North Bay, Sault Sainte Marie"
+    },
+    {
+      "Code": "1",
+      "Area": "706",
+      "ISO": "US",
+      "Region1": "Georgia",
+      "Region2": "Augusta, Columbus, Athens, Rome, Dalton"
+    },
+    {
+      "Code": "1",
+      "Area": "707",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Eureka, Napa, Santa Rosa, Petaluma, Vallejo"
+    },
+    {
+      "Code": "1",
+      "Area": "708",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "Oak Brook, Calumet City, Harvey"
+    },
+    {
+      "Code": "1",
+      "Area": "709",
+      "ISO": "CA",
+      "Region1": "Newfoundland and Labrador",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "710",
+      "ISO": "US",
+      "Region1": "US",
+      "Region2": "US Government"
+    },
+    {
+      "Code": "1",
+      "Area": "712",
+      "ISO": "US",
+      "Region1": "Iowa",
+      "Region2": "Sioux City, Council Bluffs, Spencer, Cherokee, Denison"
+    },
+    {
+      "Code": "1",
+      "Area": "713",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Houston"
+    },
+    {
+      "Code": "1",
+      "Area": "714",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Anaheim, Santa Anna"
+    },
+    {
+      "Code": "1",
+      "Area": "715",
+      "ISO": "US",
+      "Region1": "Wisconsin",
+      "Region2": "Eau Claire, Wausau, Stevens Point, Superior"
+    },
+    {
+      "Code": "1",
+      "Area": "716",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Buffalo, Niagara Falls, Tonawanda, Williamsville, Jamestown, Lancaster"
+    },
+    {
+      "Code": "1",
+      "Area": "717",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Harrisburg, York, Lancaster"
+    },
+    {
+      "Code": "1",
+      "Area": "718",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Bronx, Brooklyn, Queens, Staten Island"
+    },
+    {
+      "Code": "1",
+      "Area": "719",
+      "ISO": "US",
+      "Region1": "Colorado",
+      "Region2": "Colorado Springs, Pueblo, Lamar"
+    },
+    {
+      "Code": "1",
+      "Area": "720",
+      "ISO": "US",
+      "Region1": "Colorado",
+      "Region2": "Denver, Littleton, Englewood, Arvada, Boulder, Aurora"
+    },
+    {
+      "Code": "1",
+      "Area": "721",
+      "ISO": "SX",
+      "Region1": "Saint Maarten",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "724",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Greensburg, Uniontown, Butler, Washington, New Castle, Indiana"
+    },
+    {
+      "Code": "1",
+      "Area": "725",
+      "ISO": "US",
+      "Region1": "Nevada",
+      "Region2": "almost all of Clark County, including all of the Las Vegas Valley, including Henderson and Boulder City"
+    },
+    {
+      "Code": "1",
+      "Area": "726",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "San Antonio"
+    },
+    {
+      "Code": "1",
+      "Area": "727",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Clearwater, St. Petersburg, New Port Richey, Tarpon Springs"
+    },
+    {
+      "Code": "1",
+      "Area": "731",
+      "ISO": "US",
+      "Region1": "Tennessee",
+      "Region2": "Jackson, Dyersburg, Union City, Paris, Brownsville"
+    },
+    {
+      "Code": "1",
+      "Area": "732",
+      "ISO": "US",
+      "Region1": "New Jersey",
+      "Region2": "New Brunswick, Metuchen, Rahway, Perth Amboy, Toms River, Bound Brook"
+    },
+    {
+      "Code": "1",
+      "Area": "734",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Ann Arbor, Livonia, Wayne, Wyandotte, Ypsilanti, Plymouth, Monroe"
+    },
+    {
+      "Code": "1",
+      "Area": "737",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Houston"
+    },
+    {
+      "Code": "1",
+      "Area": "740",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Portsmouth, Newark, Zanesville, Wheeling, Steubenville"
+    },
+    {
+      "Code": "1",
+      "Area": "743",
+      "ISO": "US",
+      "Region1": "North Carolina",
+      "Region2": "Greensboro, Winston Salem, Highpoint, Burlington, Lexington, Asheboro, Reidsville"
+    },
+    {
+      "Code": "1",
+      "Area": "747",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Van Nuys, Canoga Park, Burbank, San Fernando, Glendale, N. Hollywood"
+    },
+    {
+      "Code": "1",
+      "Area": "754",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Fort Lauderdale, Hollywood, Pompano Beach, Deerfield Beach, Coral Springs"
+    },
+    {
+      "Code": "1",
+      "Area": "757",
+      "ISO": "US",
+      "Region1": "Virginia",
+      "Region2": "Norfolk, Newport News, Williamsburgh"
+    },
+    {
+      "Code": "1",
+      "Area": "758",
+      "ISO": "LC",
+      "Region1": "Saint Lucia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "760",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Oceanside, Palm Springs, Victorville, Escondido, Vista, Palm Desert"
+    },
+    {
+      "Code": "1",
+      "Area": "762",
+      "ISO": "US",
+      "Region1": "Georgia",
+      "Region2": "Augusta, Columbus, Athens, Rome, Dalton"
+    },
+    {
+      "Code": "1",
+      "Area": "763",
+      "ISO": "US",
+      "Region1": "Minnesota",
+      "Region2": "Brooklyn Park, Coon Rapids, Maple Grove, Plymouth, Cambridge, Blaine, Anoka"
+    },
+    {
+      "Code": "1",
+      "Area": "765",
+      "ISO": "US",
+      "Region1": "Indiana",
+      "Region2": "Lafayette, Muncie, Kokomo, Anderson, Richmond, Marion"
+    },
+    {
+      "Code": "1",
+      "Area": "767",
+      "ISO": "DM",
+      "Region1": "Dominica",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "769",
+      "ISO": "US",
+      "Region1": "Mississippi",
+      "Region2": "Jackson, Hattiesburg, Vicksburg, Meridian"
+    },
+    {
+      "Code": "1",
+      "Area": "770",
+      "ISO": "US",
+      "Region1": "Georgia",
+      "Region2": "Norcross, Chamblee, Smyrna, Tucker, Marietta, Alpharetta, Gainesville"
+    },
+    {
+      "Code": "1",
+      "Area": "772",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Vero Beach, Port St. Lucie, Stuart, Fort Pierce, Sebastian, Hobe Sound, Jensen Beach, Indiantown"
+    },
+    {
+      "Code": "1",
+      "Area": "773",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "Chicago"
+    },
+    {
+      "Code": "1",
+      "Area": "774",
+      "ISO": "US",
+      "Region1": "Massachusetts",
+      "Region2": "Worcester, Framingham, Brockton, Plymouth, New Bedford, Marlboro, Natick, Taunton, Auburn, Westboro, Easton"
+    },
+    {
+      "Code": "1",
+      "Area": "775",
+      "ISO": "US",
+      "Region1": "Nevada",
+      "Region2": "Reno, Carson City"
+    },
+    {
+      "Code": "1",
+      "Area": "778",
+      "ISO": "CA",
+      "Region1": "British Columbia",
+      "Region2": "Vancouver, Richmond, New Westminster"
+    },
+    {
+      "Code": "1",
+      "Area": "779",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "La Salle, Joliet, Rockford, DeKalb"
+    },
+    {
+      "Code": "1",
+      "Area": "780",
+      "ISO": "CA",
+      "Region1": "Alberta",
+      "Region2": "Edmonton, Fort McMurray, Leduc, Lloydminster, Sherwood Park"
+    },
+    {
+      "Code": "1",
+      "Area": "781",
+      "ISO": "US",
+      "Region1": "Massachusetts",
+      "Region2": "Waltham, Lexington, Burlinton, Dedham, Woburn, Lynn, Malden, Saugus, Reading, Braintree, Wellesley"
+    },
+    {
+      "Code": "1",
+      "Area": "782",
+      "ISO": "CA",
+      "Region1": "Nova Scotia, Prince Edward Island",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "784",
+      "ISO": "VC",
+      "Region1": "Saint Vincent and the Grenadines",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "785",
+      "ISO": "US",
+      "Region1": "Kansas",
+      "Region2": "Topeka, Lawrence, Manhattan, Salina, Junction"
+    },
+    {
+      "Code": "1",
+      "Area": "786",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Miami, Perrine, Homestead, Florida Keys"
+    },
+    {
+      "Code": "1",
+      "Area": "787",
+      "ISO": "PR",
+      "Region1": "Puerto Rico",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "800",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Toll-Free"
+    },
+    {
+      "Code": "1",
+      "Area": "801",
+      "ISO": "US",
+      "Region1": "Utah",
+      "Region2": "Salt Lake City, Provo, Ogden, Orem, American Fork, Spanish Fork, Bountiful, Kaysville, Morgan"
+    },
+    {
+      "Code": "1",
+      "Area": "802",
+      "ISO": "US",
+      "Region1": "Vermont",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "803",
+      "ISO": "US",
+      "Region1": "South Carolina",
+      "Region2": "Columbia"
+    },
+    {
+      "Code": "1",
+      "Area": "804",
+      "ISO": "US",
+      "Region1": "Virginia",
+      "Region2": "Richmond, Lynchburg, Petersburg"
+    },
+    {
+      "Code": "1",
+      "Area": "805",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Santa Barbara, Thousand Oaks, San Luis Obispo, Ventura, Oxnard, Simi Valley"
+    },
+    {
+      "Code": "1",
+      "Area": "806",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Amarillo, Lubbock"
+    },
+    {
+      "Code": "1",
+      "Area": "807",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Western Ontario: Thunder Bay"
+    },
+    {
+      "Code": "1",
+      "Area": "808",
+      "ISO": "US",
+      "Region1": "Hawaii",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "809",
+      "ISO": "DO",
+      "Region1": "Dominican Republic",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "810",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Flint, Port Huron, Lapeer, Brighton, Sandusky"
+    },
+    {
+      "Code": "1",
+      "Area": "812",
+      "ISO": "US",
+      "Region1": "Indiana",
+      "Region2": "Evansville, Bloomington, Terre Haute, New Albany"
+    },
+    {
+      "Code": "1",
+      "Area": "813",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Tampa"
+    },
+    {
+      "Code": "1",
+      "Area": "814",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Erie to Johnstown to Breezewood, State College and Potter County"
+    },
+    {
+      "Code": "1",
+      "Area": "815",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "La Salle, Joliet, Rockford, DeKalb"
+    },
+    {
+      "Code": "1",
+      "Area": "816",
+      "ISO": "US",
+      "Region1": "Missouri",
+      "Region2": "Kansas City, Saint Joseph, Independence, Gladstone"
+    },
+    {
+      "Code": "1",
+      "Area": "817",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Fort Worth, Arlington, Euless, Grapevine"
+    },
+    {
+      "Code": "1",
+      "Area": "818",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Van Nuys, Canoga Park, Burbank, San Fernando, Glendale, N. Hollywood"
+    },
+    {
+      "Code": "1",
+      "Area": "819",
+      "ISO": "CA",
+      "Region1": "Quebec",
+      "Region2": "Hull, Sherbrooke, Trois-Riviers, Gatineau"
+    },
+    {
+      "Code": "1",
+      "Area": "820",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Santa Barbara, Thousand Oaks, San Luis Obispo, Ventura, Oxnard, Simi Valley"
+    },
+    {
+      "Code": "1",
+      "Area": "825",
+      "ISO": "CA",
+      "Region1": "Alberta",
+      "Region2": "Calgary, Lethbridge, Banff, Medicine Hat, Red Deer, Edmonton, Fort McMurray, Leduc, Lloydminster, Sherwood Park"
+    },
+    {
+      "Code": "1",
+      "Area": "828",
+      "ISO": "US",
+      "Region1": "North Carolina",
+      "Region2": "Asheville, Hickory, Morganton, Hendersonville, Lenoir, Boone, Andrews, Murphy, Marble"
+    },
+    {
+      "Code": "1",
+      "Area": "829",
+      "ISO": "DO",
+      "Region1": "Dominican Republic",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "830",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "New Braunfels, Del Rio, Seguin, Kerrville, Eagle Pass, Fredericksburg"
+    },
+    {
+      "Code": "1",
+      "Area": "831",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Monterey, Santa Cruz, Salinas, Hollister, Aptos, Carmel"
+    },
+    {
+      "Code": "1",
+      "Area": "832",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Houston, Sugar Land, Buffalo, Airline, Greenspoint, Spring"
+    },
+    {
+      "Code": "1",
+      "Area": "833",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Toll Free"
+    },
+    {
+      "Code": "1",
+      "Area": "838",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Albany, Schenectady, Troy, Glens Falls, Saratoga Springs, Lake Placid"
+    },
+    {
+      "Code": "1",
+      "Area": "843",
+      "ISO": "US",
+      "Region1": "South Carolina",
+      "Region2": "Charleston, Florence, Myrtle Beach, Hilton Head"
+    },
+    {
+      "Code": "1",
+      "Area": "844",
+      "ISO": "XX",
+      "Region1": "Toll-Free",
+      "Region2": "XX"
+    },
+    {
+      "Code": "1",
+      "Area": "845",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Poughkeepsie, Spring Valley, Newburgh, Kingston, Nyack, Middletown, Brewster, Pearl River"
+    },
+    {
+      "Code": "1",
+      "Area": "847",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "Northbrook, Skokie, Evanston, Glenview, Waukegan, Desplaines, Elk Grove"
+    },
+    {
+      "Code": "1",
+      "Area": "848",
+      "ISO": "US",
+      "Region1": "New Jersey",
+      "Region2": "New Brunswick, Metuchen, Rahway, Perth Amboy, Toms River, Bound Brook"
+    },
+    {
+      "Code": "1",
+      "Area": "849",
+      "ISO": "DO",
+      "Region1": "Dominican Republic",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "850",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Tallahassee, Pensacola, Fort Walton Beach, Panama City"
+    },
+    {
+      "Code": "1",
+      "Area": "854",
+      "ISO": "US",
+      "Region1": "South Carolina",
+      "Region2": "Charleston, Florence, Myrtle Beach, Hilton Head"
+    },
+    {
+      "Code": "1",
+      "Area": "855",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Toll-Free"
+    },
+    {
+      "Code": "1",
+      "Area": "856",
+      "ISO": "US",
+      "Region1": "New Jersey",
+      "Region2": "Camden, Haddonfield, Moorestown, Merchantville, Vineland, Laurel Springs"
+    },
+    {
+      "Code": "1",
+      "Area": "857",
+      "ISO": "US",
+      "Region1": "Massachusetts",
+      "Region2": "Boston, Cambridge, Quincy, Newton, Brookline, Brighton, Somerville, Dorchester, Hyde Park, Jamaica Plain"
+    },
+    {
+      "Code": "1",
+      "Area": "858",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "La Jolla, Rancho Bernardo, del Mar, Poway, Rancho Penasquitos, Rancho Santa Fe"
+    },
+    {
+      "Code": "1",
+      "Area": "859",
+      "ISO": "US",
+      "Region1": "Kentucky",
+      "Region2": "Lexington, Covington, Boone, Winchester, Richmond, Danville, Mount Sterling"
+    },
+    {
+      "Code": "1",
+      "Area": "860",
+      "ISO": "US",
+      "Region1": "Connecticut",
+      "Region2": "Hartford, New London, Norwich, Middletown, Bristol"
+    },
+    {
+      "Code": "1",
+      "Area": "862",
+      "ISO": "US",
+      "Region1": "New Jersey",
+      "Region2": "Newark, Morristown, Paterson, Passaic, Orange, Bloomfield, Caldwell, Whippany"
+    },
+    {
+      "Code": "1",
+      "Area": "863",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Lakeland, Winter Haven, Lake Wales, Sebring, Haines City, Bartow, Avon Park, Okeechobee, Wachula"
+    },
+    {
+      "Code": "1",
+      "Area": "864",
+      "ISO": "US",
+      "Region1": "South Carolina",
+      "Region2": "Greenville, Spartanburg, Anderson"
+    },
+    {
+      "Code": "1",
+      "Area": "865",
+      "ISO": "US",
+      "Region1": "Tennessee",
+      "Region2": "Knoxville, Maryville, Oak Ridge, Sevierville, Gatlinburg, Concord, Powell"
+    },
+    {
+      "Code": "1",
+      "Area": "866",
+      "ISO": "XX",
+      "Region1": "Toll-Free",
+      "Region2": "XX"
+    },
+    {
+      "Code": "1",
+      "Area": "867",
+      "ISO": "CA",
+      "Region1": "Yukon, Northwest Territories, and Nunavut",
+      "Region2": "Whitehorse, Yellow Knife, Nunavut"
+    },
+    {
+      "Code": "1",
+      "Area": "868",
+      "ISO": "TT",
+      "Region1": "Trinidad and Tobago",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "869",
+      "ISO": "KN",
+      "Region1": "Saint Kitts and Nevis",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "870",
+      "ISO": "US",
+      "Region1": "Arkansas",
+      "Region2": "Texarkana, Jonesboro, Pine Bluff, El Dorado"
+    },
+    {
+      "Code": "1",
+      "Area": "872",
+      "ISO": "US",
+      "Region1": "Illinois",
+      "Region2": "Chicago (Downtown area), Wheeling"
+    },
+    {
+      "Code": "1",
+      "Area": "873",
+      "ISO": "CA",
+      "Region1": "Quebec",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "876",
+      "ISO": "JM",
+      "Region1": "Jamaica",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "877",
+      "ISO": "XX",
+      "Region1": "Toll-Free",
+      "Region2": "XX"
+    },
+    {
+      "Code": "1",
+      "Area": "878",
+      "ISO": "US",
+      "Region1": "Pennsylvania",
+      "Region2": "Pittsburgh, Greensburg, Uniontown, Butler, Washington, New Castle, Indiana"
+    },
+    {
+      "Code": "1",
+      "Area": "888",
+      "ISO": "XX",
+      "Region1": "Toll-Free",
+      "Region2": "XX"
+    },
+    {
+      "Code": "1",
+      "Area": "900",
+      "ISO": "XX",
+      "Region1": "XX",
+      "Region2": "Premium Services"
+    },
+    {
+      "Code": "1",
+      "Area": "901",
+      "ISO": "US",
+      "Region1": "Tennessee",
+      "Region2": "Memphis, Collierville"
+    },
+    {
+      "Code": "1",
+      "Area": "902",
+      "ISO": "CA",
+      "Region1": "Nova Scotia, Prince Edward Island",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "903",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Longview, Tyler, Texarkana, Paris, Kilgore, Sherman, Denison"
+    },
+    {
+      "Code": "1",
+      "Area": "904",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Jacksonville, Saint Augustine, Orange Park, Fernandina Beach"
+    },
+    {
+      "Code": "1",
+      "Area": "905",
+      "ISO": "CA",
+      "Region1": "Ontario",
+      "Region2": "Hamilton, Niagara Falls, Markham, Mississauga, Brampton"
+    },
+    {
+      "Code": "1",
+      "Area": "906",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Marquette, Iron Mountain, Houghton, Sault Ste Marie"
+    },
+    {
+      "Code": "1",
+      "Area": "907",
+      "ISO": "US",
+      "Region1": "Alaska",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "908",
+      "ISO": "US",
+      "Region1": "New Jersey",
+      "Region2": "Elizabeth, New Brunswick, Somerville, Freehold, Unionville, Plainfield"
+    },
+    {
+      "Code": "1",
+      "Area": "909",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "San Bernardino, Ontario, Upland, Pomona, Riverside, Colton, Chino"
+    },
+    {
+      "Code": "1",
+      "Area": "910",
+      "ISO": "US",
+      "Region1": "North Carolina",
+      "Region2": "Fayetteville, Wilmington, Jacksonville, Lumberton, Laurinburg, Southern Pines"
+    },
+    {
+      "Code": "1",
+      "Area": "912",
+      "ISO": "US",
+      "Region1": "Georgia",
+      "Region2": "Savannah, Macon, Waycross, Brunswick, Statesboro, Vidalia"
+    },
+    {
+      "Code": "1",
+      "Area": "913",
+      "ISO": "US",
+      "Region1": "Kansas",
+      "Region2": "Melrose, Kansas City"
+    },
+    {
+      "Code": "1",
+      "Area": "914",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Westchester, Monroe, Mount Vernon, Mount Kisco, Pleasantville"
+    },
+    {
+      "Code": "1",
+      "Area": "915",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "El Paso, Socorro, Fabens, Dell City, Van Horn, Fort Bliss"
+    },
+    {
+      "Code": "1",
+      "Area": "916",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Sacramento, Roseville, Fair Oaks, Folsom, Elk Grove, South Placer"
+    },
+    {
+      "Code": "1",
+      "Area": "917",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "New York City (Manhattan only), New York City (Bronx, Brooklyn, Queens, Staten Island)"
+    },
+    {
+      "Code": "1",
+      "Area": "918",
+      "ISO": "US",
+      "Region1": "Oklahoma",
+      "Region2": "Tulsa, Broken Arrow, Muskogee, Bartlesville, McAlester"
+    },
+    {
+      "Code": "1",
+      "Area": "919",
+      "ISO": "US",
+      "Region1": "North Carolina",
+      "Region2": "Raleigh, Durham, Cary, Chapel Hill, Goldsboro, Apex, Sanford, Wake Forest"
+    },
+    {
+      "Code": "1",
+      "Area": "920",
+      "ISO": "US",
+      "Region1": "Wisconsin",
+      "Region2": "Green Bay, Appleton, Racine, Fond du Lac, Oshkosh, Sheboygan"
+    },
+    {
+      "Code": "1",
+      "Area": "925",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Walnut Creek, Pleasanton, Concord, Livermore, Bishop Ranch, Danville, Antioch"
+    },
+    {
+      "Code": "1",
+      "Area": "928",
+      "ISO": "US",
+      "Region1": "Arizona",
+      "Region2": "Yuma, Flagstaff, Prescott, Sedona, Bullhead City, Kingman, Lake Havasu City"
+    },
+    {
+      "Code": "1",
+      "Area": "929",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "930",
+      "ISO": "US",
+      "Region1": "Indiana",
+      "Region2": "Evansville, Bloomington, Terre Haute, New Albany"
+    },
+    {
+      "Code": "1",
+      "Area": "931",
+      "ISO": "US",
+      "Region1": "Tennessee",
+      "Region2": "Clarksville, Shelbyville, Cookeville, Columbia"
+    },
+    {
+      "Code": "1",
+      "Area": "934",
+      "ISO": "US",
+      "Region1": "New York",
+      "Region2": "Suffolk County: Brentwood, Farmingdale, Central Islip, Riverhead, Huntington, Deer Park, Amityville, Lindenhurst"
+    },
+    {
+      "Code": "1",
+      "Area": "936",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Conroe, Nacogdoches, Huntsville, Lufkin, Madisonville"
+    },
+    {
+      "Code": "1",
+      "Area": "937",
+      "ISO": "US",
+      "Region1": "Ohio",
+      "Region2": "Dayton, Springfield, Bellefontaine, Beavercreek, Franklin"
+    },
+    {
+      "Code": "1",
+      "Area": "938",
+      "ISO": "US",
+      "Region1": "Alabama",
+      "Region2": "Huntsville, Anniston, Cullman, Decatur, Florence, Fort Payne, Gadsden, Madison, Sheffield, Tuscumbia"
+    },
+    {
+      "Code": "1",
+      "Area": "939",
+      "ISO": "PR",
+      "Region1": "Puerto Rico",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "940",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Wichita Falls, Denton, Gainesville"
+    },
+    {
+      "Code": "1",
+      "Area": "941",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Sarasota, Bradenton, Venice, Port Charlotte, Punta Gorda"
+    },
+    {
+      "Code": "1",
+      "Area": "947",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Troy, Pontiac, Royal Oak, Birmingham, Rochester, Farmington Hills"
+    },
+    {
+      "Code": "1",
+      "Area": "949",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Irvine, Saddleback Valley, Newport Beach, Capistrano Valley, Laguna Beach"
+    },
+    {
+      "Code": "1",
+      "Area": "951",
+      "ISO": "US",
+      "Region1": "California",
+      "Region2": "Riverside, Corona, Temecula, Arlington, Hemet, Moreno Valley, Murietta, Sun City, Elsinore"
+    },
+    {
+      "Code": "1",
+      "Area": "952",
+      "ISO": "US",
+      "Region1": "Minnesota",
+      "Region2": "Bloomington, Burnsville, Eden Prairie, Minnetonka, Edina, St. Louis Park, Apple Valley"
+    },
+    {
+      "Code": "1",
+      "Area": "954",
+      "ISO": "US",
+      "Region1": "Florida",
+      "Region2": "Fort Lauderdale, Hollywood, Pompano Beach, Deerfield Beach, Coral Springs"
+    },
+    {
+      "Code": "1",
+      "Area": "956",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Brownsville, Laredo, McAllen, Harlingen, Edinburg"
+    },
+    {
+      "Code": "1",
+      "Area": "959",
+      "ISO": "US",
+      "Region1": "Connecticut",
+      "Region2": "Hartford, New London, Norwich, Middletown, Bristol"
+    },
+    {
+      "Code": "1",
+      "Area": "970",
+      "ISO": "US",
+      "Region1": "Colorado",
+      "Region2": "Fort Collins, Greeley, Grand Junction, Loveland, Durango, Vail"
+    },
+    {
+      "Code": "1",
+      "Area": "971",
+      "ISO": "US",
+      "Region1": "Oregon",
+      "Region2": "Portland, Salem, Beaverton, Gresham, Hillsboro"
+    },
+    {
+      "Code": "1",
+      "Area": "972",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Grand Prairie, Addison, Irving, Richardson, Plano, Carrollton"
+    },
+    {
+      "Code": "1",
+      "Area": "973",
+      "ISO": "US",
+      "Region1": "New Jersey",
+      "Region2": "Newark, Morristown, Paterson, Passaic, Orange, Bloomfield, Caldwell, Whippany"
+    },
+    {
+      "Code": "1",
+      "Area": "978",
+      "ISO": "US",
+      "Region1": "Massachusetts",
+      "Region2": "Lowell, Lawrence, Billerica, Concord, Wilmington, Sudbury, Fitchburg, Peabody, Andover, Beverly, Danvers"
+    },
+    {
+      "Code": "1",
+      "Area": "979",
+      "ISO": "US",
+      "Region1": "Texas",
+      "Region2": "Bryan, Lake Jackson, Freeport, Brenham, Bay City, El Campo"
+    },
+    {
+      "Code": "1",
+      "Area": "980",
+      "ISO": "US",
+      "Region1": "North Carolina",
+      "Region2": "Charlotte, Asheville, Gastonia, Concord, Statesville, Salisbury, Shelby, Monroe"
+    },
+    {
+      "Code": "1",
+      "Area": "984",
+      "ISO": "US",
+      "Region1": "North Carolina",
+      "Region2": "Raleigh"
+    },
+    {
+      "Code": "1",
+      "Area": "985",
+      "ISO": "US",
+      "Region1": "Louisiana",
+      "Region2": "Houma, Slidell, Hammond, Morgan City, Mandeville, Covington, Thibodaux, Bogalusa, St. Charles"
+    },
+    {
+      "Code": "1",
+      "Area": "986",
+      "ISO": "US",
+      "Region1": "Idaho",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "989",
+      "ISO": "US",
+      "Region1": "Michigan",
+      "Region2": "Saginaw, Bay City, Midland, Mount Pleasant"
+    },
+    {
+      "Code": "1",
+      "Area": "",
+      "ISO": "CA",
+      "Region1": "Canada",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "1",
+      "Area": "",
+      "ISO": "US",
+      "Region1": "United States",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "7",
+      "Area": "",
+      "ISO": "KZ",
+      "Region1": "Kazakhstan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "7",
+      "Area": "",
+      "ISO": "RU",
+      "Region1": "Russia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "20",
+      "Area": "",
+      "ISO": "EG",
+      "Region1": "Egypt",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "27",
+      "Area": "",
+      "ISO": "ZA",
+      "Region1": "South Africa",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "30",
+      "Area": "",
+      "ISO": "GR",
+      "Region1": "Greece",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "31",
+      "Area": "",
+      "ISO": "NL",
+      "Region1": "Netherlands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "32",
+      "Area": "",
+      "ISO": "BE",
+      "Region1": "Belgium",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "33",
+      "Area": "",
+      "ISO": "FR",
+      "Region1": "France",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "34",
+      "Area": "",
+      "ISO": "ES",
+      "Region1": "Spain",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "36",
+      "Area": "",
+      "ISO": "HU",
+      "Region1": "Hungary",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "39",
+      "Area": "",
+      "ISO": "IT",
+      "Region1": "Italy",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "40",
+      "Area": "",
+      "ISO": "RO",
+      "Region1": "Romania",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "41",
+      "Area": "",
+      "ISO": "CH",
+      "Region1": "Switzerland",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "43",
+      "Area": "",
+      "ISO": "AT",
+      "Region1": "Austria",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "44",
+      "Area": "1481",
+      "ISO": "GG",
+      "Region1": "Guernsey",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "44",
+      "Area": "1534",
+      "ISO": "JE",
+      "Region1": "Jersey",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "44",
+      "Area": "1624",
+      "ISO": "IM",
+      "Region1": "Isle of Man",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "44",
+      "Area": "",
+      "ISO": "GB",
+      "Region1": "United Kingdom",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "45",
+      "Area": "",
+      "ISO": "DK",
+      "Region1": "Denmark",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "46",
+      "Area": "",
+      "ISO": "SE",
+      "Region1": "Sweden",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "47",
+      "Area": "",
+      "ISO": "NO",
+      "Region1": "Norway",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "47",
+      "Area": "",
+      "ISO": "SJ",
+      "Region1": "Svalbard and Jan Mayen",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "48",
+      "Area": "",
+      "ISO": "PL",
+      "Region1": "Poland",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "49",
+      "Area": "",
+      "ISO": "DE",
+      "Region1": "Germany",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "51",
+      "Area": "",
+      "ISO": "PE",
+      "Region1": "Peru",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "52",
+      "Area": "",
+      "ISO": "MX",
+      "Region1": "Mexico",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "53",
+      "Area": "",
+      "ISO": "CU",
+      "Region1": "Cuba",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "54",
+      "Area": "",
+      "ISO": "AR",
+      "Region1": "Argentina",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "55",
+      "Area": "",
+      "ISO": "BR",
+      "Region1": "Brazil",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "56",
+      "Area": "",
+      "ISO": "CL",
+      "Region1": "Chile",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "57",
+      "Area": "",
+      "ISO": "CO",
+      "Region1": "Colombia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "58",
+      "Area": "",
+      "ISO": "VE",
+      "Region1": "Venezuela",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "60",
+      "Area": "",
+      "ISO": "MY",
+      "Region1": "Malaysia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "61",
+      "Area": "",
+      "ISO": "AU",
+      "Region1": "Australia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "61",
+      "Area": "",
+      "ISO": "CC",
+      "Region1": "Cocos Islands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "61",
+      "Area": "",
+      "ISO": "CX",
+      "Region1": "Christmas Island",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "62",
+      "Area": "",
+      "ISO": "ID",
+      "Region1": "Indonesia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "63",
+      "Area": "",
+      "ISO": "PH",
+      "Region1": "Philippines",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "64",
+      "Area": "",
+      "ISO": "NZ",
+      "Region1": "New Zealand",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "64",
+      "Area": "",
+      "ISO": "PN",
+      "Region1": "Pitcairn",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "65",
+      "Area": "",
+      "ISO": "SG",
+      "Region1": "Singapore",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "66",
+      "Area": "",
+      "ISO": "TH",
+      "Region1": "Thailand",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "81",
+      "Area": "",
+      "ISO": "JP",
+      "Region1": "Japan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "82",
+      "Area": "",
+      "ISO": "KR",
+      "Region1": "South Korea",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "84",
+      "Area": "",
+      "ISO": "VN",
+      "Region1": "Vietnam",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "86",
+      "Area": "",
+      "ISO": "CN",
+      "Region1": "China",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "90",
+      "Area": "",
+      "ISO": "TR",
+      "Region1": "Turkey",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "91",
+      "Area": "",
+      "ISO": "IN",
+      "Region1": "India",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "92",
+      "Area": "",
+      "ISO": "PK",
+      "Region1": "Pakistan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "93",
+      "Area": "",
+      "ISO": "AF",
+      "Region1": "Afghanistan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "94",
+      "Area": "",
+      "ISO": "LK",
+      "Region1": "Sri Lanka",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "95",
+      "Area": "",
+      "ISO": "MM",
+      "Region1": "Myanmar",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "98",
+      "Area": "",
+      "ISO": "IR",
+      "Region1": "Iran",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "211",
+      "Area": "",
+      "ISO": "SS",
+      "Region1": "South Sudan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "212",
+      "Area": "",
+      "ISO": "EH",
+      "Region1": "Western Sahara",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "212",
+      "Area": "",
+      "ISO": "MA",
+      "Region1": "Morocco",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "213",
+      "Area": "",
+      "ISO": "DZ",
+      "Region1": "Algeria",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "216",
+      "Area": "",
+      "ISO": "TN",
+      "Region1": "Tunisia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "218",
+      "Area": "",
+      "ISO": "LY",
+      "Region1": "Libya",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "220",
+      "Area": "",
+      "ISO": "GM",
+      "Region1": "Gambia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "221",
+      "Area": "",
+      "ISO": "SN",
+      "Region1": "Senegal",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "222",
+      "Area": "",
+      "ISO": "MR",
+      "Region1": "Mauritania",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "223",
+      "Area": "",
+      "ISO": "ML",
+      "Region1": "Mali",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "224",
+      "Area": "",
+      "ISO": "GN",
+      "Region1": "Guinea",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "225",
+      "Area": "",
+      "ISO": "CI",
+      "Region1": "Ivory Coast",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "226",
+      "Area": "",
+      "ISO": "BF",
+      "Region1": "Burkina Faso",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "227",
+      "Area": "",
+      "ISO": "NE",
+      "Region1": "Niger",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "228",
+      "Area": "",
+      "ISO": "TG",
+      "Region1": "Togo",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "229",
+      "Area": "",
+      "ISO": "BJ",
+      "Region1": "Benin",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "230",
+      "Area": "",
+      "ISO": "MU",
+      "Region1": "Mauritius",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "231",
+      "Area": "",
+      "ISO": "LR",
+      "Region1": "Liberia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "232",
+      "Area": "",
+      "ISO": "SL",
+      "Region1": "Sierra Leone",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "233",
+      "Area": "",
+      "ISO": "GH",
+      "Region1": "Ghana",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "234",
+      "Area": "",
+      "ISO": "NG",
+      "Region1": "Nigeria",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "235",
+      "Area": "",
+      "ISO": "TD",
+      "Region1": "Chad",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "236",
+      "Area": "",
+      "ISO": "CF",
+      "Region1": "Central African Republic",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "237",
+      "Area": "",
+      "ISO": "CM",
+      "Region1": "Cameroon",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "238",
+      "Area": "",
+      "ISO": "CV",
+      "Region1": "Cape Verde",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "239",
+      "Area": "",
+      "ISO": "ST",
+      "Region1": "Sao Tome and Principe",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "240",
+      "Area": "",
+      "ISO": "GQ",
+      "Region1": "Equatorial Guinea",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "241",
+      "Area": "",
+      "ISO": "GA",
+      "Region1": "Gabon",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "242",
+      "Area": "",
+      "ISO": "CG",
+      "Region1": "Republic of the Congo",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "243",
+      "Area": "",
+      "ISO": "CD",
+      "Region1": "Democratic Republic of the Congo",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "244",
+      "Area": "",
+      "ISO": "AO",
+      "Region1": "Angola",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "245",
+      "Area": "",
+      "ISO": "GW",
+      "Region1": "Guinea-Bissau",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "246",
+      "Area": "",
+      "ISO": "IO",
+      "Region1": "British Indian Ocean Territory",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "248",
+      "Area": "",
+      "ISO": "SC",
+      "Region1": "Seychelles",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "249",
+      "Area": "",
+      "ISO": "SD",
+      "Region1": "Sudan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "250",
+      "Area": "",
+      "ISO": "RW",
+      "Region1": "Rwanda",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "251",
+      "Area": "",
+      "ISO": "ET",
+      "Region1": "Ethiopia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "252",
+      "Area": "",
+      "ISO": "SO",
+      "Region1": "Somalia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "253",
+      "Area": "",
+      "ISO": "DJ",
+      "Region1": "Djibouti",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "254",
+      "Area": "",
+      "ISO": "KE",
+      "Region1": "Kenya",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "255",
+      "Area": "",
+      "ISO": "TZ",
+      "Region1": "Tanzania",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "256",
+      "Area": "",
+      "ISO": "UG",
+      "Region1": "Uganda",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "257",
+      "Area": "",
+      "ISO": "BI",
+      "Region1": "Burundi",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "258",
+      "Area": "",
+      "ISO": "MZ",
+      "Region1": "Mozambique",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "260",
+      "Area": "",
+      "ISO": "ZM",
+      "Region1": "Zambia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "261",
+      "Area": "",
+      "ISO": "MG",
+      "Region1": "Madagascar",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "262",
+      "Area": "",
+      "ISO": "RE",
+      "Region1": "Reunion",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "262",
+      "Area": "",
+      "ISO": "YT",
+      "Region1": "Mayotte",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "263",
+      "Area": "",
+      "ISO": "ZW",
+      "Region1": "Zimbabwe",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "264",
+      "Area": "",
+      "ISO": "NA",
+      "Region1": "Namibia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "265",
+      "Area": "",
+      "ISO": "MW",
+      "Region1": "Malawi",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "266",
+      "Area": "",
+      "ISO": "LS",
+      "Region1": "Lesotho",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "267",
+      "Area": "",
+      "ISO": "BW",
+      "Region1": "Botswana",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "268",
+      "Area": "",
+      "ISO": "SZ",
+      "Region1": "Swaziland",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "269",
+      "Area": "",
+      "ISO": "KM",
+      "Region1": "Comoros",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "290",
+      "Area": "",
+      "ISO": "SH",
+      "Region1": "Saint Helena",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "291",
+      "Area": "",
+      "ISO": "ER",
+      "Region1": "Eritrea",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "297",
+      "Area": "",
+      "ISO": "AW",
+      "Region1": "Aruba",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "298",
+      "Area": "",
+      "ISO": "FO",
+      "Region1": "Faroe Islands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "299",
+      "Area": "",
+      "ISO": "GL",
+      "Region1": "Greenland",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "350",
+      "Area": "",
+      "ISO": "GI",
+      "Region1": "Gibraltar",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "351",
+      "Area": "",
+      "ISO": "PT",
+      "Region1": "Portugal",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "352",
+      "Area": "",
+      "ISO": "LU",
+      "Region1": "Luxembourg",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "353",
+      "Area": "",
+      "ISO": "IE",
+      "Region1": "Ireland",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "354",
+      "Area": "",
+      "ISO": "IS",
+      "Region1": "Iceland",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "355",
+      "Area": "",
+      "ISO": "AL",
+      "Region1": "Albania",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "356",
+      "Area": "",
+      "ISO": "MT",
+      "Region1": "Malta",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "357",
+      "Area": "",
+      "ISO": "CY",
+      "Region1": "Cyprus",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "358",
+      "Area": "",
+      "ISO": "FI",
+      "Region1": "Finland",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "359",
+      "Area": "",
+      "ISO": "BG",
+      "Region1": "Bulgaria",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "370",
+      "Area": "",
+      "ISO": "LT",
+      "Region1": "Lithuania",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "371",
+      "Area": "",
+      "ISO": "LV",
+      "Region1": "Latvia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "372",
+      "Area": "",
+      "ISO": "EE",
+      "Region1": "Estonia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "373",
+      "Area": "",
+      "ISO": "MD",
+      "Region1": "Moldova",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "374",
+      "Area": "",
+      "ISO": "AM",
+      "Region1": "Armenia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "375",
+      "Area": "",
+      "ISO": "BY",
+      "Region1": "Belarus",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "376",
+      "Area": "",
+      "ISO": "AD",
+      "Region1": "Andorra",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "377",
+      "Area": "",
+      "ISO": "MC",
+      "Region1": "Monaco",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "378",
+      "Area": "",
+      "ISO": "SM",
+      "Region1": "San Marino",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "379",
+      "Area": "",
+      "ISO": "VA",
+      "Region1": "Vatican",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "380",
+      "Area": "",
+      "ISO": "UA",
+      "Region1": "Ukraine",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "381",
+      "Area": "",
+      "ISO": "RS",
+      "Region1": "Serbia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "382",
+      "Area": "",
+      "ISO": "ME",
+      "Region1": "Montenegro",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "383",
+      "Area": "",
+      "ISO": "XK",
+      "Region1": "Kosovo",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "385",
+      "Area": "",
+      "ISO": "HR",
+      "Region1": "Croatia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "386",
+      "Area": "",
+      "ISO": "SI",
+      "Region1": "Slovenia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "387",
+      "Area": "",
+      "ISO": "BA",
+      "Region1": "Bosnia and Herzegovina",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "389",
+      "Area": "",
+      "ISO": "MK",
+      "Region1": "Macedonia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "420",
+      "Area": "",
+      "ISO": "CZ",
+      "Region1": "Czech Republic",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "421",
+      "Area": "",
+      "ISO": "SK",
+      "Region1": "Slovakia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "423",
+      "Area": "",
+      "ISO": "LI",
+      "Region1": "Liechtenstein",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "500",
+      "Area": "",
+      "ISO": "FK",
+      "Region1": "Falkland Islands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "501",
+      "Area": "",
+      "ISO": "BZ",
+      "Region1": "Belize",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "502",
+      "Area": "",
+      "ISO": "GT",
+      "Region1": "Guatemala",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "503",
+      "Area": "",
+      "ISO": "SV",
+      "Region1": "El Salvador",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "504",
+      "Area": "",
+      "ISO": "HN",
+      "Region1": "Honduras",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "505",
+      "Area": "",
+      "ISO": "NI",
+      "Region1": "Nicaragua",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "506",
+      "Area": "",
+      "ISO": "CR",
+      "Region1": "Costa Rica",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "507",
+      "Area": "",
+      "ISO": "PA",
+      "Region1": "Panama",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "508",
+      "Area": "",
+      "ISO": "PM",
+      "Region1": "Saint Pierre and Miquelon",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "509",
+      "Area": "",
+      "ISO": "HT",
+      "Region1": "Haiti",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "590",
+      "Area": "",
+      "ISO": "BL",
+      "Region1": "Saint Barthelemy",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "590",
+      "Area": "",
+      "ISO": "MF",
+      "Region1": "Saint Martin",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "591",
+      "Area": "",
+      "ISO": "BO",
+      "Region1": "Bolivia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "592",
+      "Area": "",
+      "ISO": "GY",
+      "Region1": "Guyana",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "593",
+      "Area": "",
+      "ISO": "EC",
+      "Region1": "Ecuador",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "595",
+      "Area": "",
+      "ISO": "PY",
+      "Region1": "Paraguay",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "597",
+      "Area": "",
+      "ISO": "SR",
+      "Region1": "Suriname",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "598",
+      "Area": "",
+      "ISO": "UY",
+      "Region1": "Uruguay",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "599",
+      "Area": "",
+      "ISO": "AN",
+      "Region1": "Netherlands Antilles",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "599",
+      "Area": "",
+      "ISO": "CW",
+      "Region1": "Curacao",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "670",
+      "Area": "",
+      "ISO": "TL",
+      "Region1": "East Timor",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "672",
+      "Area": "",
+      "ISO": "AQ",
+      "Region1": "Antarctica",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "673",
+      "Area": "",
+      "ISO": "BN",
+      "Region1": "Brunei",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "674",
+      "Area": "",
+      "ISO": "NR",
+      "Region1": "Nauru",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "675",
+      "Area": "",
+      "ISO": "PG",
+      "Region1": "Papua New Guinea",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "676",
+      "Area": "",
+      "ISO": "TO",
+      "Region1": "Tonga",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "677",
+      "Area": "",
+      "ISO": "SB",
+      "Region1": "Solomon Islands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "678",
+      "Area": "",
+      "ISO": "VU",
+      "Region1": "Vanuatu",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "679",
+      "Area": "",
+      "ISO": "FJ",
+      "Region1": "Fiji",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "680",
+      "Area": "",
+      "ISO": "PW",
+      "Region1": "Palau",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "681",
+      "Area": "",
+      "ISO": "WF",
+      "Region1": "Wallis and Futuna",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "682",
+      "Area": "",
+      "ISO": "CK",
+      "Region1": "Cook Islands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "683",
+      "Area": "",
+      "ISO": "NU",
+      "Region1": "Niue",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "685",
+      "Area": "",
+      "ISO": "WS",
+      "Region1": "Samoa",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "686",
+      "Area": "",
+      "ISO": "KI",
+      "Region1": "Kiribati",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "687",
+      "Area": "",
+      "ISO": "NC",
+      "Region1": "New Caledonia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "688",
+      "Area": "",
+      "ISO": "TV",
+      "Region1": "Tuvalu",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "689",
+      "Area": "",
+      "ISO": "PF",
+      "Region1": "French Polynesia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "690",
+      "Area": "",
+      "ISO": "TK",
+      "Region1": "Tokelau",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "691",
+      "Area": "",
+      "ISO": "FM",
+      "Region1": "Micronesia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "692",
+      "Area": "",
+      "ISO": "MH",
+      "Region1": "Marshall Islands",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "850",
+      "Area": "",
+      "ISO": "KP",
+      "Region1": "North Korea",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "852",
+      "Area": "",
+      "ISO": "HK",
+      "Region1": "Hong Kong",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "853",
+      "Area": "",
+      "ISO": "MO",
+      "Region1": "Macau",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "855",
+      "Area": "",
+      "ISO": "KH",
+      "Region1": "Cambodia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "856",
+      "Area": "",
+      "ISO": "LA",
+      "Region1": "Laos",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "880",
+      "Area": "",
+      "ISO": "BD",
+      "Region1": "Bangladesh",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "886",
+      "Area": "",
+      "ISO": "TW",
+      "Region1": "Taiwan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "960",
+      "Area": "",
+      "ISO": "MV",
+      "Region1": "Maldives",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "961",
+      "Area": "",
+      "ISO": "LB",
+      "Region1": "Lebanon",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "962",
+      "Area": "",
+      "ISO": "JO",
+      "Region1": "Jordan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "963",
+      "Area": "",
+      "ISO": "SY",
+      "Region1": "Syria",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "964",
+      "Area": "",
+      "ISO": "IQ",
+      "Region1": "Iraq",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "965",
+      "Area": "",
+      "ISO": "KW",
+      "Region1": "Kuwait",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "966",
+      "Area": "",
+      "ISO": "SA",
+      "Region1": "Saudi Arabia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "967",
+      "Area": "",
+      "ISO": "YE",
+      "Region1": "Yemen",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "968",
+      "Area": "",
+      "ISO": "OM",
+      "Region1": "Oman",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "970",
+      "Area": "",
+      "ISO": "PS",
+      "Region1": "Palestine",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "971",
+      "Area": "",
+      "ISO": "AE",
+      "Region1": "United Arab Emirates",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "972",
+      "Area": "",
+      "ISO": "IL",
+      "Region1": "Israel",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "973",
+      "Area": "",
+      "ISO": "BH",
+      "Region1": "Bahrain",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "974",
+      "Area": "",
+      "ISO": "QA",
+      "Region1": "Qatar",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "975",
+      "Area": "",
+      "ISO": "BT",
+      "Region1": "Bhutan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "976",
+      "Area": "",
+      "ISO": "MN",
+      "Region1": "Mongolia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "977",
+      "Area": "",
+      "ISO": "NP",
+      "Region1": "Nepal",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "992",
+      "Area": "",
+      "ISO": "TJ",
+      "Region1": "Tajikistan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "993",
+      "Area": "",
+      "ISO": "TM",
+      "Region1": "Turkmenistan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "994",
+      "Area": "",
+      "ISO": "AZ",
+      "Region1": "Azerbaijan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "995",
+      "Area": "",
+      "ISO": "GE",
+      "Region1": "Georgia",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "996",
+      "Area": "",
+      "ISO": "KG",
+      "Region1": "Kyrgyzstan",
+      "Region2": "All Areas"
+    },
+    {
+      "Code": "998",
+      "Area": "",
+      "ISO": "UZ",
+      "Region1": "Uzbekistan",
+      "Region2": "All Areas"
+    }
+  ]
+}
